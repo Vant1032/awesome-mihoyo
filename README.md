@@ -192,7 +192,7 @@
 | 原神幼儿园               | 我是小狄xiaodi | [链接/Link](https://space.bilibili.com/89433414/channel/collectiondetail?sid=946590) |
 | 原神MMD                  | 披萨与汉堡QAQ  | [链接/Link](https://space.bilibili.com/1883386422/channel/seriesdetail?sid=3899048) |
 
-### 原神剧情录制 | Ienshin Impact story record
+### 原神剧情录制 | Genshin Impact story record
 
 | 名称                       | 作者                 | bilibili                                                     |
 | -------------------------- | -------------------- | ------------------------------------------------------------ |
