@@ -543,7 +543,7 @@ B站话题：[原神摄影大赛](https://www.bilibili.com/v/topic/detail/?topic
 
 
 
-### 音乐平台 Music platform
+## 音乐平台 Music platform
 
 以下是各个平台的HOYO-Mix
 
@@ -567,23 +567,23 @@ B站话题：[原神摄影大赛](https://www.bilibili.com/v/topic/detail/?topic
 
 [Tidal music](https://tidal.com/browse/artist/10758139)
 
-#### 同人游戏 Fan-made game
+## 同人游戏 Fan-made game
 
 Silly Wisher  [google play](https://play.google.com/store/apps/details?id=com.sketchi.sillywisher)  [App store](https://apps.apple.com/lv/app/silly-wisher/id6444465724)
 
-#### 同人AI Fan-made AI
+## 同人AI Fan-made AI
 
 [Stardust_减-AI语音](https://www.bilibili.com/video/BV18E421371Q)
 
 
 
-#### 官方模型 Official model
+## 官方模型 Official model
 
 [原神-模之屋](https://www.aplaybox.com/u/680828836/model)
 
 
 
-#### 商店 Official shop
+## 商店 Official shop
 
 [原神旗舰店-淘宝](https://yuanshenwj.tmall.com/)
 
