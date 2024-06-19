@@ -34,7 +34,7 @@ export default defineConfig({
       {
         text: 'Collections',
         items: [
-          { text: 'miHoYo Official Account 米哈游官方账号', link: 'miHoYoOfficialAccount(米哈游官方账号).md' },
+          { text: 'miHoYo Official Account 米哈游官方账号', link: '/MihoyoOfficialAccount(米哈游官方账号).md' },
           { text: 'Genshin Impact 原神', link: '/README.md' },
           { text: 'Honkai:Star Rail 崩坏：星穹铁道同人作品)', link: '/HonkaiStarRailContent(崩坏：星穹铁道同人作品).md' },
           { text: 'ZenlessZoneZero 绝区零', link: '/ZenlessZoneZero(绝区零).md' },
