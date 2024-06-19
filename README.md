@@ -432,6 +432,7 @@
 | 全网首发！谁拥有最美丝袜？米兰服装设计师的原神全女性人物腿饰解密！ | [链接/Link](https://www.bilibili.com/video/BV1oi4y1Q7B6)     |                                                          | 服装赏析                                   | [服装设计师看原神角色衣服的反应！网络热门服装鉴定【37】原神](https://www.bilibili.com/video/BV1ht4y1R7G9) |
 | 版本节奏史                                                   | [链接/Link](https://space.bilibili.com/1903716905/channel/collectiondetail?sid=541588) |                                                          | 原神社区节奏历史                           | [（开服被水军黑古战场）全网首曝！米哈游新作《原神》游戏内容抢先曝光！](https://www.bilibili.com/video/BV13441137qo) \| [【原神冷知识】你知道开服至今原神所经历的重大节奏事件吗？](https://www.bilibili.com/video/BV13p4y1N7re/) |
 | 【才浅手工】真实还是特效？原神雷电将军武器极致还原           | [链接/Link](https://www.bilibili.com/video/BV1rh411W7nH)     |                                                          | 复刻道具                                   | [腐殖之剑，原神的美术有多强？做成实物后美爆了！](https://www.bilibili.com/video/BV1Pi4y1w7Vb) \| [【原神】去蒙德城找Hacksmith，让他为你打造一把“天空之翼”](https://www.bilibili.com/video/BV1W44y1q7vF) \| [原神 至冬工造仿和璞鸢系列武器展示：代号GSVA001-003](https://www.bilibili.com/video/BV1bp4y1H79M) \| [【原神】神里绫人专武波乱月白经津，发光武器还原](https://www.bilibili.com/video/BV19F411u7L8) |
+| 你把戒指吃下去了啊？...唔？！                                | [链接/Link](https://www.bilibili.com/video/BV1Kt421u7mJ)     |                                                          | 超甜的爱情                                 | [Youtube版](https://www.youtube.com/watch?v=9st-zZZ5bgo)     |
 
 ## 百科 Wiki
 
