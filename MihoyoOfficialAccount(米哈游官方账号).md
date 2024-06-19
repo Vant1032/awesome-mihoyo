@@ -11,7 +11,9 @@
 | 米哈游人才引进事务所 |                                                    |                                             | [链接/Link](https://www.xiaohongshu.com/user/profile/63510328000000001901fbbf) |                                             |                                                 |                                                   |
 | HOYO-MiX             | [链接/Link](https://space.bilibili.com/1401735960) |                                             |                                                              |                                             |                                                 |                                                   |
 | hoyocreators         |                                                    |                                             |                                                              |                                             |                                                 | [链接/Link](https://www.tiktok.com/@hoyocreators) |
-| yoyo鹿鸣 Lumi        | [链接/Link](https://space.bilibili.com/488836173)  | [链接/Link](https://v.douyin.com/ijEpVUuu/) |                                                              |                                             | [链接/Link](https://www.youtube.com/@Lumi_N0va) |                                                   |
+| yoyo鹿鸣 Lumi        | [链接/Link](https://space.bilibili.com/488836173)  | [链接/Link](https://v.douyin.com/ijEpVUuu/) |                                                              | [链接/Link](https://weibo.com/u/7452107608) | [链接/Link](https://www.youtube.com/@Lumi_N0va) |                                                   |
+| 人工桌面N0va Desktop | [链接/Link](https://space.bilibili.com/628522081)  | [链接/Link](https://v.douyin.com/ijoDGJcE/) |                                                              | [链接/Link](https://weibo.com/u/7476362936) |                                                 |                                                   |
+| 吼姆补给箱           | [链接/Link](https://space.bilibili.com/416540618/) | [链接/Link](https://v.douyin.com/ijoDKxN3/) |                                                              | [链接/Link](https://weibo.com/u/6073483367) |                                                 |                                                   |
 
 
 
@@ -56,10 +58,11 @@
 
 # 崩坏3 Honkai Impact 3
 
-| 名称              | bilibili                             | 抖音                           | 小红书                                                       | 微博                           |
-| ----------------- | ------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------ |
-| 崩坏3             | [链接/Link](https://space.bilibili.com/256667467) | [链接/Link](https://v.douyin.com/i2k6jWVy/) |                                                              | [链接/Link](https://weibo.com/u/5812573321) |
-| 崩坏3第一偶像爱酱 | [链接/Link](https://space.bilibili.com/27534330)  |                                | [链接/Link](https://www.xiaohongshu.com/user/profile/619a89c60000000021024dc7) |                                |
+| 名称        | bilibili                             | 抖音                           | 小红书                                                       | 微博                                        |
+|-----------| ------------------------------------ | ------------------------------ | ------------------------------------------------------------ |-------------------------------------------|
+| 崩坏3       | [链接/Link](https://space.bilibili.com/256667467) | [链接/Link](https://v.douyin.com/i2k6jWVy/) |                                                              | [链接/Link](https://weibo.com/u/5812573321) |
+| 崩坏3第一偶像爱酱 | [链接/Link](https://space.bilibili.com/27534330)  |                                | [链接/Link](https://www.xiaohongshu.com/user/profile/619a89c60000000021024dc7) |                                           |
+| 崩坏3爱酱小跟班  | | | | [链接/Link](https://weibo.com/u/7828497372) |
 
 # 未定事件簿 Tears of Themis
 
@@ -69,6 +72,7 @@
 
 # 崩坏2 Honkai Impact 2
 
-| 名称                 | bilibili                                          | 抖音                                        | 小红书 | 微博                                        |
-| -------------------- | ------------------------------------------------- | ------------------------------------------- | ------ | ------------------------------------------- |
-| 崩坏学园2-灵依娘desu | [链接/Link](https://space.bilibili.com/256667467) | [链接/Link](https://v.douyin.com/i2k6jWVy/) |        | [链接/Link](https://weibo.com/u/5812573321) |
+| 名称     | bilibili                                     | 抖音                                        | 小红书 | 微博                                        |
+|--------|----------------------------------------------| ------------------------------------------- |-----|-------------------------------------------|
+| 崩坏学园2-灵依娘desu | [链接/Link](https://space.bilibili.com/133934) |  |     | [链接/Link](https://weibo.com/u/1980539365) |
+| 崩坏开发日志 |                                              | |     |                                     [链接/Link](https://weibo.com/u/5967971838)      |

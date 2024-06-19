@@ -34,12 +34,12 @@ export default defineConfig({
       {
         text: 'Collections',
         items: [
+          { text: 'miHoYo Official Account 米哈游官方账号', link: 'miHoYoOfficialAccount(米哈游官方账号).md' },
           { text: 'Genshin Impact 原神', link: '/README.md' },
           { text: 'Honkai:Star Rail 崩坏：星穹铁道同人作品)', link: '/HonkaiStarRailContent(崩坏：星穹铁道同人作品).md' },
           { text: 'ZenlessZoneZero 绝区零', link: '/ZenlessZoneZero(绝区零).md' },
           { text: 'ChineseCoser 中国Coser', link: '/ChineseCoser(中国Coser).md' },
           { text: 'Mihoyo CV 米哈游相关CV', link: '/MihoyoCV(米哈游相关CV).md' },
-          { text: 'Mihoyo official account 米哈游官方账号', link: 'MihoyoOfficialAccount(米哈游官方账号).md' },
         ]
       }
     ],
