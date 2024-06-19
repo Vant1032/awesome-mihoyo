@@ -1,14 +1,14 @@
-# 概述 | overview
+# 概述 Overview
 本仓库收集米哈游相关二创内容。 This repository collects fan-made content and official content related to miHoYo.
 
 
 当前页面为原神二创内容整理。  This page is a collect of Genshin Impact fan-created content
 
-# 原神 | Genshin Impact
+# 原神 Genshin Impact
 
 [原神二创月刊-合集](https://space.bilibili.com/394416628/channel/collectiondetail?sid=228859) 是观察原神在B站二创情况的一个视频合集，每月汇总二创情况。
 
-## 官方音乐会 | official music concert
+## 官方音乐会 Official music concert
 
 | 名称                                        | 链接                                        |
 | ------------------------------------------- | ------------------------------------------- |
@@ -41,7 +41,7 @@
 
 
 
-## 同人歌曲 | fan music
+## 同人歌曲 Fan-made music
 
 | 名称           | bilibili                                                     | youtube                                     |
 | -------------- | ------------------------------------------------------------ | ------------------------------------------- |
@@ -55,7 +55,7 @@
 | 璃云月海       | [链接/Link](https://www.bilibili.com/video/BV17m4y1S7PM)                  | [链接/Link](https://www.youtube.com/watch?v=3WPl7p-EVHg) |
 | 真有这么好听？ | [链接/Link](https://www.bilibili.com/video/BV1Wy4y1i7AL)                  | [链接/Link](https://www.youtube.com/watch?v=pwQ_MkyuVPs) |
 
-## 外网同人歌曲 | English fan song
+## 外网同人歌曲 English fan-made music
 
 | 名称   | youtube                                     |
 | ------ | ------------------------------------------- |
@@ -63,9 +63,9 @@
 
 
 
-## 大型同人节目视频 | fan-made concert
+## 大型同人节目视频 Fan-made concert
 
-## 中国 | Chinese
+### 中国 Chinese
 
 | 名称                                   | 日期       | bilibili                                    | youtube                                     |
 | -------------------------------------- | ---------- | ------------------------------------------- | ------------------------------------------- |
@@ -81,7 +81,7 @@
 | 2023年原神三周年二创音乐会《星渊奏章》 | 2023-10-05 | [链接/Link](https://www.bilibili.com/video/BV1tu4y1x771) |                                             |
 | 2024年「原神新春会」                   | 2024-02-02 | [链接/Link](https://www.bilibili.com/video/BV1sK42117Bn) | [链接/Link](https://www.youtube.com/watch?v=wolrUBiZhZU) |
 
-## 外国 | English
+### 外国 English
 
 | 名称                                                         | 日期       | bilibili                                    | youtube                                     |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------- | ------------------------------------------- |
@@ -94,11 +94,11 @@
 | HoYoFair 2024 New Year Genshin Impact & Honkai: Star Rail Fan Art Special Program | 2023-12-30 | [链接/Link](https://www.bilibili.com/video/BV1r5411B7e7) | [链接/Link](https://www.youtube.com/watch?v=gi8gjZWtfbc) |
 | HoYoFair2024 Spring Genshin Impact Fan Art Special Program "Teyvat Film Festival" \| 提瓦特映影节 | 2024-04-13 | [链接/Link](https://www.bilibili.com/video/BV18i421f7hp) | [链接/Link](https://www.youtube.com/watch?v=nCar9SiJFrs) |
 
-### 单角色 | character fan-made concert
+### 单角色 Character fan-made concert
 
 离谱，查找资料时发现还有厨力高的玩家一起做了单个角色的生日会、微电影，真是太强了。
 
-#### 生日会
+#### 生日会 Birthday Party
 
 | 名称                 | 日期       | bilibili                                    |
 | -------------------- | ---------- | ------------------------------------------- |
@@ -127,7 +127,7 @@
 | 2024魈生日会         | 2024-04-17 | [链接/Link](https://www.bilibili.com/video/BV1cH4y1N79B) |
 | 2024年魈空生日会     | 2024-04-17 | [链接/Link](https://www.bilibili.com/video/BV171421Z72X) |
 
-#### 微电影 | movie
+#### 微电影 movie
 
 太多了，只能挑一些展示，留待各位自行发掘吧。
 
@@ -144,7 +144,7 @@
 | 神里绫华：此情无关风月，此爱恰似飘雪 | 2022-05-04 | [链接/Link](https://www.bilibili.com/video/BV1XY4y167iV) |
 | 钟离：千岩牢固，重嶂不移             | 2022-05-20 | [链接/Link](https://www.bilibili.com/video/BV1Mv4y1A7RA) |
 
-#### 动画合集 | anime collect
+#### 动画合集 anime collect
 
 | 名称                     | 作者           | bilibili                                                     |
 | ------------------------ | -------------- | ------------------------------------------------------------ |
@@ -192,7 +192,7 @@
 | 原神幼儿园               | 我是小狄xiaodi | [链接/Link](https://space.bilibili.com/89433414/channel/collectiondetail?sid=946590) |
 | 原神MMD                  | 披萨与汉堡QAQ  | [链接/Link](https://space.bilibili.com/1883386422/channel/seriesdetail?sid=3899048) |
 
-### 原神剧情录制 | Genshin Impact story record
+### 原神剧情录制 Genshin Impact story record
 
 | 名称                       | 作者                 | bilibili                                                     |
 | -------------------------- | -------------------- | ------------------------------------------------------------ |
@@ -206,9 +206,9 @@
 | 2.8夏日海岛活动剧情        | 能解开那孩子的项圈吗 | [链接/Link](https://space.bilibili.com/4743456/channel/collectiondetail?sid=560495) |
 | 限时活动剧情               | 在努力的小七         | [链接/Link](https://space.bilibili.com/1005293364/channel/seriesdetail?sid=3045465) |
 
-## 有影响力的原神同人账号 | influencer
+## 有影响力的原神同人账号 Influencer
 
-### 国内 | Chinese
+### 国内 Chinese
 
 收集资料过程中发现原神在B站的二创up主实在是太多了，我不可能覆盖完全，我只能选取一些代表性的，更多up主看这：[全体原神up主粉丝量排名【第100～1名】【2024/01】](https://www.bilibili.com/video/BV1yi4y1i7nW) 、 [全体原神up主粉丝量排名【第200～101名】【2024/01】](https://www.bilibili.com/video/BV1d5411i7Yy)。
 
@@ -273,7 +273,7 @@
 | 伏特加少女     | [链接/Link](https://space.bilibili.com/151274245)        |                                | [链接/Link](https://www.youtube.com/@GirlVodka)         |
 | 陪君柳下走     | [链接/Link](https://space.bilibili.com/7970760)          | [链接/Link](https://v.douyin.com/i2Av6e92/) |                                            |
 
-### 国外 | English
+### 国外 English
 
 | 名称             | bilibili                                    | youtube                                  |
 | ---------------- | ------------------------------------------- | ---------------------------------------- |
@@ -288,7 +288,7 @@
 
 
 
-## 原神攻略账号 | Genshin Impact walkthrough account
+## 原神攻略账号 Genshin Impact walkthrough account
 
 | 名称                  | bilibili                              |
 | --------------------- | ------------------------------------- |
@@ -305,7 +305,7 @@
 | 老懂是我了_DongGaming | [链接/Link](https://space.bilibili.com/1074636993) |
 | 一瓶雪碧_             | [链接/Link](https://space.bilibili.com/281369174)  |
 
-## 原神直播账号 | Genshin Impact livestream account
+## 原神直播账号 Genshin Impact livestream account
 
 | 名称               | 链接                                        |
 | ------------------ | ------------------------------------------- |
@@ -323,7 +323,7 @@
 | Enviosity          | [链接/Link](https://www.youtube.com/@Enviosity)          |
 | モスラメソ \| meso | [链接/Link](https://www.youtube.com/@mosurameso)         |
 
-## 原神烤肉账号  | Genshin Impact translate account
+## 原神烤肉账号  Genshin Impact translate account
 
 | 名称            | bilibili                              |
 | --------------- | ------------------------------------- |
@@ -336,7 +336,7 @@
 | 野生噗尼        | [链接/Link](https://space.bilibili.com/646019)     |
 | 无语不摸鱼      | [链接/Link](https://space.bilibili.com/697138445)  |
 
-## 原神特殊分类账号 | Genshin Impact special account
+## 原神特殊分类账号 Genshin Impact special account
 
 | 名称             | 分类       | bilibili                             |
 | ---------------- | ---------- | ------------------------------------ |
@@ -349,7 +349,7 @@
 | 夜的第七章cy     | 特殊打法   | [链接/Link](https://space.bilibili.com/13238372)  |
 | ametorin         | 无派蒙玩法 | [链接/Link](https://space.bilibili.com/431617766) |
 
-## 原神考据 | Genshin Impact lore research
+## 原神考据 Genshin Impact lore research
 
 | 名称        | bilibili                              | 相关视频                                                     |
 | ----------- | ------------------------------------- | ------------------------------------------------------------ |
@@ -365,7 +365,7 @@
 
 
 
-## 有影响力的原神同人作品 | influential fan works
+## 有影响力的原神同人作品 Influential fan works
 
 有太多太多优秀的作品，我只能挑出其中一部分，光是播放量破百万的作品就极其极其多。
 
@@ -423,7 +423,7 @@
 | 版本节奏史                                                   | [链接/Link](https://space.bilibili.com/1903716905/channel/collectiondetail?sid=541588) |                                                          | 原神社区节奏历史                           | [（开服被水军黑古战场）全网首曝！米哈游新作《原神》游戏内容抢先曝光！](https://www.bilibili.com/video/BV13441137qo) \| [【原神冷知识】你知道开服至今原神所经历的重大节奏事件吗？](https://www.bilibili.com/video/BV13p4y1N7re/) |
 | 【才浅手工】真实还是特效？原神雷电将军武器极致还原           | [链接/Link](https://www.bilibili.com/video/BV1rh411W7nH)     |                                                          | 复刻道具                                   | [腐殖之剑，原神的美术有多强？做成实物后美爆了！](https://www.bilibili.com/video/BV1Pi4y1w7Vb) \| [【原神】去蒙德城找Hacksmith，让他为你打造一把“天空之翼”](https://www.bilibili.com/video/BV1W44y1q7vF) \| [原神 至冬工造仿和璞鸢系列武器展示：代号GSVA001-003](https://www.bilibili.com/video/BV1bp4y1H79M) \| [【原神】神里绫人专武波乱月白经津，发光武器还原](https://www.bilibili.com/video/BV19F411u7L8) |
 
-## 百科 | Wiki
+## 百科 Wiki
 
 [B站-原神百科wiki](https://wiki.biligame.com/ys/%E9%A6%96%E9%A1%B5)  | [米游社-原神观测枢](https://bbs.mihoyo.com/ys/obc/)| [Fandom-原神百科](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki) |
 
@@ -441,7 +441,7 @@
 
 
 
-### 线下活动 | offline event
+### 线下活动 Offline event
 
 购票方式：[B站-会员购](https://show.bilibili.com/platform/home.html)
 
@@ -455,7 +455,7 @@
 
 ## COS
 
-### 优秀角色COS | great cos works
+### 优秀角色COS | Great cos works
 
 | 名称                         | bilibili                                                     |
 | ---------------------------- | ------------------------------------------------------------ |
@@ -484,7 +484,7 @@
 | 香菱/XiangLin                | [是你的六星战神吗](https://www.bilibili.com/video/BV1TN411B7jP) |
 | 阿蕾奇诺/Arlecchino          | [愚人众执行官 “仆人”阿蕾奇诺登场～](https://www.bilibili.com/video/BV1A84y1f7ep) \| [荣耀 向我俯首](https://www.bilibili.com/video/BV1dC411j7tU) |
 
-## 原神摄影 | Genshin Impact photography
+## 原神摄影 Genshin Impact photography
 
 B站话题：[原神摄影大赛](https://www.bilibili.com/v/topic/detail/?topic_id=2478&topic_name=%E5%8E%9F%E7%A5%9E%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B)
 
@@ -501,7 +501,7 @@ B站话题：[原神摄影大赛](https://www.bilibili.com/v/topic/detail/?topic
 | 小重山OvO           | [链接/Link](https://space.bilibili.com/1006742027)                        | [此时一位原神摄影玩家正向你展示这一年的照片](https://www.bilibili.com/video/BV1UH4y1K7qi) |
 | 提瓦特摄影展览馆    | [链接/Link](https://www.xiaohongshu.com/user/profile/64abcfb6000000000b016cea) |                                                              |
 
-## 原神尘歌壶 | Genshin Impact Serenitea Pot
+## 原神尘歌壶 Genshin Impact Serenitea Pot
 
 | 名称               | 链接                                 | 相关视频                                                     |
 | ------------------ | ------------------------------------ | ------------------------------------------------------------ |
@@ -514,7 +514,7 @@ B站话题：[原神摄影大赛](https://www.bilibili.com/v/topic/detail/?topic
 | 似貉不是猫         | [链接/Link](https://space.bilibili.com/489841040) | [时间之外\|鱼游窗外的海底教室\|因为你就像我喜欢的大海❤来自风平浪静的明天](https://www.bilibili.com/video/BV1724y1V7pL) |
 | 荣耀第一人君莫笑   | [链接/Link](https://space.bilibili.com/14639512)  | [静谧泉邸｜枫丹主宅乡野风庭院设计之旋流屿](https://www.bilibili.com/video/BV1UC4y1q7Re) |
 
-## 原琴 | Genshin Impact instrument player
+## 原琴 Genshin Impact instrument player
 
 | 名称           | bilibili                             |
 | -------------- | ------------------------------------ |
@@ -537,13 +537,13 @@ B站话题：[原神摄影大赛](https://www.bilibili.com/v/topic/detail/?topic
 
 
 
-## 同人小说 | fan-made fiction
+## 同人小说 Fan-made fiction
 
 起点已经有太多了。
 
 
 
-### 音乐平台 | music platform
+### 音乐平台 Music platform
 
 以下是各个平台的HOYO-Mix
 
@@ -567,23 +567,23 @@ B站话题：[原神摄影大赛](https://www.bilibili.com/v/topic/detail/?topic
 
 [Tidal music](https://tidal.com/browse/artist/10758139)
 
-#### 同人游戏 | fan-made game
+#### 同人游戏 Fan-made game
 
 Silly Wisher  [google play](https://play.google.com/store/apps/details?id=com.sketchi.sillywisher)  [App store](https://apps.apple.com/lv/app/silly-wisher/id6444465724)
 
-#### 同人AI | fan-made AI
+#### 同人AI Fan-made AI
 
 [Stardust_减-AI语音](https://www.bilibili.com/video/BV18E421371Q)
 
 
 
-#### 官方模型 | official model
+#### 官方模型 Official model
 
 [原神-模之屋](https://www.aplaybox.com/u/680828836/model)
 
 
 
-#### 商店 | official shop
+#### 商店 Official shop
 
 [原神旗舰店-淘宝](https://yuanshenwj.tmall.com/)
 

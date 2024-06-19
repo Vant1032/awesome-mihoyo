@@ -1,20 +1,21 @@
 
 
-# 米哈游 | Mihoyo
+# 米哈游 Mihoyo
 
-| 名称                 | bilibili                              | 抖音                           | 小红书                                                       | 微博                           | youtube                           | tiktok                               |
-| -------------------- | ------------------------------------- | ------------------------------ | ------------------------------------------------------------ | ------------------------------ | --------------------------------- | ------------------------------------ |
-| 米哈游miHoYo         | [链接/Link](https://space.bilibili.com/318432901)  |                                |                                                              | [链接/Link](https://weibo.com/u/6415164493) |                                   |                                      |
-| 米游社               | [链接/Link](https://space.bilibili.com/510189715)  | [链接/Link](https://v.douyin.com/i2k25EwY/) | [链接/Link](https://www.xiaohongshu.com/user/profile/63195970000000002302753d) | [链接/Link](https://weibo.com/u/7189835620) |                                   |                                      |
-| HoYoFair             | [链接/Link](https://space.bilibili.com/2013376075) |                                |                                                              |                                | [链接/Link](https://www.youtube.com/@hoyofair) | [链接/Link](https://www.tiktok.com/@hoyofair)     |
-| HoYoLAB              | [链接/Link](https://space.bilibili.com/1017815615) |                                |                                                              |                                | [链接/Link](https://www.youtube.com/@HoYoLAB)  |                                      |
-| 米哈游人才引进事务所 |                                       |                                | [链接/Link](https://www.xiaohongshu.com/user/profile/63510328000000001901fbbf) |                                |                                   |                                      |
-| HOYO-MiX             | [链接/Link](https://space.bilibili.com/1401735960) |                                |                                                              |                                |                                   |                                      |
-| hoyocreators         |                                       |                                |                                                              |                                |                                   | [链接/Link](https://www.tiktok.com/@hoyocreators) |
+| 名称                 | bilibili                                           | 抖音                                        | 小红书                                                       | 微博                                        | youtube                                         | tiktok                                            |
+| -------------------- | -------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| 米哈游miHoYo         | [链接/Link](https://space.bilibili.com/318432901)  |                                             |                                                              | [链接/Link](https://weibo.com/u/6415164493) |                                                 |                                                   |
+| 米游社               | [链接/Link](https://space.bilibili.com/510189715)  | [链接/Link](https://v.douyin.com/i2k25EwY/) | [链接/Link](https://www.xiaohongshu.com/user/profile/63195970000000002302753d) | [链接/Link](https://weibo.com/u/7189835620) |                                                 |                                                   |
+| HoYoFair             | [链接/Link](https://space.bilibili.com/2013376075) |                                             |                                                              |                                             | [链接/Link](https://www.youtube.com/@hoyofair)  | [链接/Link](https://www.tiktok.com/@hoyofair)     |
+| HoYoLAB              | [链接/Link](https://space.bilibili.com/1017815615) |                                             |                                                              |                                             | [链接/Link](https://www.youtube.com/@HoYoLAB)   |                                                   |
+| 米哈游人才引进事务所 |                                                    |                                             | [链接/Link](https://www.xiaohongshu.com/user/profile/63510328000000001901fbbf) |                                             |                                                 |                                                   |
+| HOYO-MiX             | [链接/Link](https://space.bilibili.com/1401735960) |                                             |                                                              |                                             |                                                 |                                                   |
+| hoyocreators         |                                                    |                                             |                                                              |                                             |                                                 | [链接/Link](https://www.tiktok.com/@hoyocreators) |
+| yoyo鹿鸣 Lumi        | [链接/Link](https://space.bilibili.com/488836173)  | [链接/Link](https://v.douyin.com/ijEpVUuu/) |                                                              |                                             | [链接/Link](https://www.youtube.com/@Lumi_N0va) |                                                   |
 
 
 
-# 原神 | Genshin Impact
+# 原神 Genshin Impact
 
 | 名称             | bilibili                                     | 抖音                           | 小红书                                                       | 微博                           |
 | ---------------- | -------------------------------------------- | ------------------------------ | ------------------------------------------------------------ | ------------------------------ |
@@ -33,7 +34,7 @@
 
 
 
-# 崩坏：星穹铁道 | Honkai: Star Rail
+# 崩坏：星穹铁道 Honkai: Star Rail
 
 | 名称           | bilibili                                    | 抖音                           | 小红书                                                       | 微博                           |
 | -------------- | ------------------------------------------- | ------------------------------ | ------------------------------------------------------------ | ------------------------------ |
@@ -44,7 +45,7 @@
 
 
 
-# 绝区零 | Zenless Zone Zero
+# 绝区零 Zenless Zone Zero
 
 | 名称   | bilibili                                    | 抖音                           | 小红书                                                       | 微博                           |
 | ------ | ------------------------------------------- | ------------------------------ | ------------------------------------------------------------ | ------------------------------ |
@@ -53,10 +54,21 @@
 
 
 
-# 崩坏3 | Honkai Impact 3
+# 崩坏3 Honkai Impact 3
 
 | 名称              | bilibili                             | 抖音                           | 小红书                                                       | 微博                           |
 | ----------------- | ------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------ |
 | 崩坏3             | [链接/Link](https://space.bilibili.com/256667467) | [链接/Link](https://v.douyin.com/i2k6jWVy/) |                                                              | [链接/Link](https://weibo.com/u/5812573321) |
 | 崩坏3第一偶像爱酱 | [链接/Link](https://space.bilibili.com/27534330)  |                                | [链接/Link](https://www.xiaohongshu.com/user/profile/619a89c60000000021024dc7) |                                |
 
+# 未定事件簿 Tears of Themis
+
+| 名称       | bilibili                                          | 抖音                                        | 小红书                                                       | 微博                                        |
+| ---------- | ------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------- |
+| 未定事件簿 | [链接/Link](https://space.bilibili.com/436175352) | [链接/Link](https://v.douyin.com/ijEbfdR3/) | [链接/Link](https://www.xiaohongshu.com/user/profile/617fa8a40000000002027760) | [链接/Link](https://weibo.com/u/7072153506) |
+
+# 崩坏2 Honkai Impact 2
+
+| 名称                 | bilibili                                          | 抖音                                        | 小红书 | 微博                                        |
+| -------------------- | ------------------------------------------------- | ------------------------------------------- | ------ | ------------------------------------------- |
+| 崩坏学园2-灵依娘desu | [链接/Link](https://space.bilibili.com/256667467) | [链接/Link](https://v.douyin.com/i2k6jWVy/) |        | [链接/Link](https://weibo.com/u/5812573321) |
