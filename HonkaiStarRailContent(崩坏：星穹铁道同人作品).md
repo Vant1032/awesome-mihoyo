@@ -4,7 +4,7 @@
 
 | 名称                                                   | bilibili                                    | youtube                                     |
 | ------------------------------------------------------ | ------------------------------------------- | ------------------------------------------- |
-| 《崩坏：星穹铁道》「2024星铁LIVE」演唱会官方录播完整版 | https://www.bilibili.com/video/BV1ZH4y1V7AE | https://www.youtube.com/watch?v=lGBrJXoRAqk |
+| 《崩坏：星穹铁道》「2024星铁LIVE」演唱会官方录播完整版 | [链接/Link](https://www.bilibili.com/video/BV1ZH4y1V7AE) | [链接/Link](https://www.youtube.com/watch?v=lGBrJXoRAqk) |
 
 
 
@@ -14,8 +14,8 @@
 
 | 名称                     | 日期       | bilibili                                    | youtube                                     |
 | ------------------------ | ---------- | ------------------------------------------- | ------------------------------------------- |
-| 2024崩坏：星穹铁道新春会 | 2024-02-04 | https://www.bilibili.com/video/BV1a7421K7ex | https://www.youtube.com/watch?v=KPd8iVjBlIQ |
-| 2024星穹铁道生日会       | 2024-04-27 | https://www.bilibili.com/video/BV19D421J7dW |                                             |
+| 2024崩坏：星穹铁道新春会 | 2024-02-04 | [链接/Link](https://www.bilibili.com/video/BV1a7421K7ex) | [链接/Link](https://www.youtube.com/watch?v=KPd8iVjBlIQ) |
+| 2024星穹铁道生日会       | 2024-04-27 | [链接/Link](https://www.bilibili.com/video/BV19D421J7dW) |                                             |
 
 
 
@@ -23,5 +23,5 @@
 
 | 名称                                                                         | 日期       | bilibili | youtube                                     |
 |----------------------------------------------------------------------------| ---------- | -------- | ------------------------------------------- |
-| S.P.A.R.K.L.E Sandman Peeps As Rhythm Keeps LIVE EVENT Star Rail Jazznight | 2024-04-26 |          | https://www.youtube.com/watch?v=xaq01Jwdnms |
+| S.P.A.R.K.L.E Sandman Peeps As Rhythm Keeps LIVE EVENT Star Rail Jazznight | 2024-04-26 |          | [链接/Link](https://www.youtube.com/watch?v=xaq01Jwdnms) |
 
