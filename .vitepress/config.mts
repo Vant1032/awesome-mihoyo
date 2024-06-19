@@ -3,8 +3,11 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "miHoYo related content",
-  description: "About Mihoyo",
+  description: "About Mihoyo: miHoYo Fan-made content collection, Genshin Impact Fan-made content collection, Honkai: Star Rail Fan-made content collection, | 包含大量米哈游旗下游戏的二创内容：原神二创、崩坏星穹铁道二创、米哈游最全的官方账号整理",
   base: '/awesome-mihoyo/',
+  sitemap: {
+    hostname: 'https://vant1032.github.io/awesome-mihoyo/'
+  },
 
   themeConfig: {
     search: {
