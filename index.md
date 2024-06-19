@@ -12,7 +12,10 @@ hero:
       link: /README.md
     - theme: alt
       text: Honkai：Star Rail
-      link: /Honkai star rail content(崩坏：星穹铁道同人作品).md
+      link: /HonkaiStarRailContent(崩坏：星穹铁道同人作品).md
+#    - theme: alt
+#      text: Zenless Zone Zero
+#      link: /ZenlessZoneZero(绝区零).md
 
 
 ---

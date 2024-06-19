@@ -25,7 +25,9 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Genshin Impact', link: '/README.md' }
+      { text: 'Genshin Impact', link: '/README.md' },
+      { text: 'Honkai:Star Rail', link: '/HonkaiStarRailContent(崩坏：星穹铁道同人作品).md' },
+      { text: 'ZenlessZoneZero', link: '/ZenlessZoneZero(绝区零).md' },
     ],
 
     sidebar: [
@@ -34,6 +36,7 @@ export default defineConfig({
         items: [
           { text: 'Genshin Impact 原神', link: '/README.md' },
           { text: 'Honkai:Star Rail 崩坏：星穹铁道同人作品)', link: '/HonkaiStarRailContent(崩坏：星穹铁道同人作品).md' },
+          { text: 'ZenlessZoneZero', link: '/ZenlessZoneZero(绝区零).md' },
           { text: 'ChineseCoser 中国Coser.md', link: '/ChineseCoser(中国Coser).md' },
           { text: 'Mihoyo CV 米哈游相关CV', link: '/MihoyoCV(米哈游相关CV).md' },
           { text: 'Mihoyo official account 米哈游官方账号', link: 'MihoyoOfficialAccount(米哈游官方账号).md' },
