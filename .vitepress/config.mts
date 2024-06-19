@@ -1,7 +1,6 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
-// @ts-ignore
 export default defineConfig({
   title: "miHoYo related content",
   description: "About Mihoyo",
@@ -19,10 +18,6 @@ export default defineConfig({
     },
     lastUpdated: {
       text: 'Updated at',
-      formatOptions: {
-        dateStyle: 'full',
-        timeStyle: 'medium'
-      }
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
