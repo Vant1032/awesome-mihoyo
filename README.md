@@ -4,6 +4,8 @@
 
 当前页面为原神二创内容整理。  This page is a collect of Genshin Impact fan-created content
 
+为获得更好观看体验可点击[这里(github page)](https://vant1032.github.io/awesome-mihoyo/)或[这里(vercel)](https://awesome-mihoyo.vercel.app/)用网站形式观看。 For a better viewing experience, you can click [here (GitHub page)](https://vant1032.github.io/awesome-mihoyo/) or [here (Vercel)](https://awesome-mihoyo.vercel.app/) to view in website format.
+
 **导航 Navigation:**
 
 [HonkaiStarRailContent(崩坏：星穹铁道同人作品)](./HonkaiStarRailContent(崩坏：星穹铁道同人作品).md)
