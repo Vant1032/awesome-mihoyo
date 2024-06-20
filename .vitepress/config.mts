@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 
 function vercelOrNot(vercelVal, defaultVal) {
   // @ts-ignore
-  if (process.env.VERCEL_ENV === 1) {
+  if (process.env.VERCEL_ENV == 1) {
     return vercelVal;
   }
   return defaultVal;
