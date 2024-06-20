@@ -218,7 +218,7 @@
 | 2.8夏日海岛活动剧情        | 能解开那孩子的项圈吗 | [链接/Link](https://space.bilibili.com/4743456/channel/collectiondetail?sid=560495) |
 | 限时活动剧情               | 在努力的小七         | [链接/Link](https://space.bilibili.com/1005293364/channel/seriesdetail?sid=3045465) |
 
-## 有影响力的原神同人账号 Influencer
+## 有影响力的原神同人博主 Influencer
 
 ### 国内 Chinese
 
@@ -300,7 +300,7 @@
 
 
 
-## 原神攻略账号 Genshin Impact walkthrough account
+## 原神攻略博主 Genshin Impact walkthrough account
 
 | 名称                  | bilibili                              |
 | --------------------- | ------------------------------------- |
@@ -317,7 +317,7 @@
 | 老懂是我了_DongGaming | [链接/Link](https://space.bilibili.com/1074636993) |
 | 一瓶雪碧_             | [链接/Link](https://space.bilibili.com/281369174)  |
 
-## 原神直播账号 Genshin Impact livestream account
+## 原神直播博主 Genshin Impact livestream account
 
 | 名称               | 链接                                        |
 | ------------------ | ------------------------------------------- |
@@ -335,7 +335,7 @@
 | Enviosity          | [链接/Link](https://www.youtube.com/@Enviosity)          |
 | モスラメソ \| meso | [链接/Link](https://www.youtube.com/@mosurameso)         |
 
-## 原神烤肉账号  Genshin Impact translate account
+## 原神烤肉博主  Genshin Impact translate account
 
 | 名称            | bilibili                              |
 | --------------- | ------------------------------------- |
@@ -348,7 +348,7 @@
 | 野生噗尼        | [链接/Link](https://space.bilibili.com/646019)     |
 | 无语不摸鱼      | [链接/Link](https://space.bilibili.com/697138445)  |
 
-## 原神特殊分类账号 Genshin Impact special account
+## 原神特殊分类博主 Genshin Impact special account
 
 | 名称             | 分类       | bilibili                             |
 | ---------------- | ---------- | ------------------------------------ |
