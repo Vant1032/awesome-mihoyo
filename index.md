@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "米哈游二创收藏夹 Mihoyo Fan art Collection"
+  name: "米哈游二创收藏夹 miHoYo Fan art Collection"
   text: ""
   tagline: 
   actions:
