@@ -7,6 +7,8 @@
 
 为获得更好观看体验可点击[这里(Github page)](https://vant1032.github.io/awesome-mihoyo/)或[这里(Cloudflare)](https://awesome-mihoyo.pages.dev/)或[这里(vercel)](https://awesome-mihoyo.vercel.app/)用网站形式观看。 For a better viewing experience, you can click [here (GitHub page)](https://vant1032.github.io/awesome-mihoyo/) or [here(Cloudflare)](https://awesome-mihoyo.pages.dev/) or [here (Vercel)](https://awesome-mihoyo.vercel.app/) to view in website format.
 
+下载本项目，请点击[这里(Gitee)](https://gitee.com/vant1032/awesome-mihoyo/repository/archive/master.zip)或[这里(Github)](https://github.com/Vant1032/awesome-mihoyo/archive/refs/heads/master.zip)。 Download this project, please click [here(Gitee)](https://gitee.com/vant1032/awesome-mihoyo/repository/archive/master.zip) or [here(Github)](https://github.com/Vant1032/awesome-mihoyo/archive/refs/heads/master.zip).
+
 **导航 Navigation:**
 
 [HonkaiStarRailContent(崩坏：星穹铁道同人作品)](./HonkaiStarRailContent(崩坏：星穹铁道同人作品).md)
