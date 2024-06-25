@@ -49,10 +49,11 @@
 
 ## 绝区零 Zenless Zone Zero
 
-| 名称   | bilibili                                    | 抖音                           | 小红书                                                       | 微博                           |
-| ------ | ------------------------------------------- | ------------------------------ | ------------------------------------------------------------ | ------------------------------ |
-| 绝区零 | [链接/Link](https://space.bilibili.com/1636034895)       | [链接/Link](https://v.douyin.com/i2kjbkn4/) | [链接/Link](https://www.xiaohongshu.com/user/profile/60d3096f0000000020028eb0) | [链接/Link](https://weibo.com/u/7632078520) |
-| 邦布帮 | [链接/Link](https://space.bilibili.com/3546578054810019) | [链接/Link](https://v.douyin.com/i2kjoYK3/) | [链接/Link](https://www.xiaohongshu.com/user/profile/6551d9ff000000000202a20c) | [链接/Link](https://weibo.com/u/7884342228) |
+| 名称               | bilibili                                                 | 抖音                                        | 小红书                                                       | 微博                                        |
+| ------------------ | -------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------- |
+| 绝区零             | [链接/Link](https://space.bilibili.com/1636034895)       | [链接/Link](https://v.douyin.com/i2kjbkn4/) | [链接/Link](https://www.xiaohongshu.com/user/profile/60d3096f0000000020028eb0) | [链接/Link](https://weibo.com/u/7632078520) |
+| 邦布帮             | [链接/Link](https://space.bilibili.com/3546578054810019) | [链接/Link](https://v.douyin.com/i2kjoYK3/) | [链接/Link](https://www.xiaohongshu.com/user/profile/6551d9ff000000000202a20c) | [链接/Link](https://weibo.com/u/7884342228) |
+| 绝区零第一可爱兔宝 | [链接/Link](https://space.bilibili.com/3546687932991974) | [链接/Link](https://v.douyin.com/i66NSBBN/) | [链接/Link](https://www.xiaohongshu.com/user/profile/664d9b68000000001e0045a2) | [链接/Link](https://weibo.com/u/7922920911) |
 
 
 
