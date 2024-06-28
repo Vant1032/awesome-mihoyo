@@ -297,6 +297,7 @@
 | No_Tables        | [链接/Link](https://space.bilibili.com/1220617185)       | [链接/Link](https://www.youtube.com/@no_tables)       |
 | KKOMDA           | [链接/Link](https://space.bilibili.com/1740827542)       | [链接/Link](https://www.youtube.com/@KKOMDASTRO)      |
 | RiceWhale        |                                                          | [链接/Link](https://www.youtube.com/@RiceWhaleYT)     |
+| Monolithia       | [链接/Link](https://space.bilibili.com/1472374760)       | [链接/Link](https://www.youtube.com/@Monolithia/)     |
 | Rawfler          | [链接/Link](https://space.bilibili.com/1949261988)       | [链接/Link](https://www.youtube.com/@Rawfler)         |
 | CelinePizza      | [链接/Link](https://space.bilibili.com/439145835)        | [链接/Link](https://www.youtube.com/@celinepizza2263) |
 | Zy0x             |                                                          | [链接/Link](https://www.youtube.com/@Zy0x)            |
