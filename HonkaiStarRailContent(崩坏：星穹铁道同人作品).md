@@ -13,11 +13,11 @@
 
 ### 中国 Chinese
 
-| 名称                     | 日期       | bilibili                                                 | youtube                                                  |
-| ------------------------ | ---------- | -------------------------------------------------------- | -------------------------------------------------------- |
-| 星穹夏日联欢盛典         | 2023-08-05 | [链接/Link](https://www.bilibili.com/video/BV1s44y1w7Ad) | 链接/Link                                                |
+| 名称                     | 日期       | bilibili                                                 | youtube                                               |
+| ------------------------ | ---------- | -------------------------------------------------------- |-------------------------------------------------------|
+| 星穹夏日联欢盛典         | 2023-08-05 | [链接/Link](https://www.bilibili.com/video/BV1s44y1w7Ad) |                                                       |
 | 2024崩坏：星穹铁道新春会 | 2024-02-04 | [链接/Link](https://www.bilibili.com/video/BV1a7421K7ex) | [链接/Link](https://www.youtube.com/watch?v=KPd8iVjBlIQ) |
-| 2024星穹铁道生日会       | 2024-04-27 | [链接/Link](https://www.bilibili.com/video/BV19D421J7dW) |                                                          |
+| 2024星穹铁道生日会       | 2024-04-27 | [链接/Link](https://www.bilibili.com/video/BV19D421J7dW) |                                                       |
 
 ### 外国 English
 
