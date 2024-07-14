@@ -54,6 +54,11 @@
 | 《原神》游戏剧情EP「轻涟」MV                           | [链接/Link](https://www.bilibili.com/video/BV17N411g7Ft) |
 | 「终末的赦祷颂-演绎版」：《原神》「光与影的诀别」MV    | [链接/Link](https://www.bilibili.com/video/BV1Lr42137pp) |
 
+综艺 Variety Show
+
+| 名称 | 链接          |
+|---|-------------|
+| 原梦冒险团-蜀中行 | [链接/Link](https://www.bilibili.com/video/BV19e411o7rY) |
 
 
 ## 同人歌曲 Fan-made music
