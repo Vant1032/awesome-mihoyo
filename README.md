@@ -295,6 +295,7 @@
 | 伏特加少女      | [链接/Link](https://space.bilibili.com/151274245)        |                                             | [链接/Link](https://www.youtube.com/@GirlVodka)         |
 | 陪君柳下走      | [链接/Link](https://space.bilibili.com/7970760)          | [链接/Link](https://v.douyin.com/i2Av6e92/) |                                                         |
 | Happy_Twins     | [链接/Link](https://space.bilibili.com/405845641)        | [链接/Link](https://v.douyin.com/iMhaXQ6A/) |                                                         |
+| 旋风博文        | [链接/Link](https://space.bilibili.com/11912132)         | [链接/Link](https://v.douyin.com/iMhmacSP/) |                                                         |
 
 ### 国外 English
 
