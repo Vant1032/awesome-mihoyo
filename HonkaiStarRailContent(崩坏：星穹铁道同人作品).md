@@ -3,11 +3,27 @@
 
 ## 官方音乐会 Official music concert
 
-| 名称                                                   | bilibili                                    | youtube                                     |
-| ------------------------------------------------------ | ------------------------------------------- | ------------------------------------------- |
+| 名称                                                   | bilibili                                                 | youtube                                                  |
+| ------------------------------------------------------ | -------------------------------------------------------- | -------------------------------------------------------- |
 | 《崩坏：星穹铁道》「2024星铁LIVE」演唱会官方录播完整版 | [链接/Link](https://www.bilibili.com/video/BV1ZH4y1V7AE) | [链接/Link](https://www.youtube.com/watch?v=lGBrJXoRAqk) |
 
+MV
 
+| 名称                                                         | bilibili                                                     | youtube                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 《崩坏：星穹铁道》OP：「星间旅行」\| Interstellar Journey    | [链接/Link](https://www.bilibili.com/video/BV1rh4y1n77f/)    | [链接/Link](https://www.youtube.com/watch?v=w8vPZrMFiZ4)     |
+| 《崩坏：星穹铁道》EP：「水龙吟」\| Samudrartha               | [链接/Link](https://www.bilibili.com/video/BV1EF411X7PF/)    | [链接/Link](https://www.youtube.com/watch?v=qWXPNyt6oTE)     |
+| 《崩坏：星穹铁道》OP：「不眠之夜」\| White Night             | [链接/Link](https://www.bilibili.com/video/BV1me411n7eu/) \| [链接/Link](https://www.bilibili.com/video/BV1Se411Y7ZE/) | [链接/Link](https://www.youtube.com/watch?v=U7W8QR9fsFw) \| [链接/Link](https://www.youtube.com/watch?v=Cpq5uBSk434) |
+| 《崩坏：星穹铁道》EP：「使一颗心免于哀伤」\| If I Can Stop One Heart From Breaking | [链接/Link](https://www.bilibili.com/video/BV1wz421U7LZ/)    | [链接/Link](https://www.youtube.com/watch?v=xFHNWJVsjmY)     |
+| 《崩坏：星穹铁道》知更鸟角色PV——「孤独摇摆」\| Sway to My Beat | [链接/Link](https://www.bilibili.com/video/BV1Am411y7iK/)    | [链接/Link](https://www.youtube.com/watch?v=QbPtrnmGlZ8)     |
+| 《崩坏：星穹铁道》EP：「希望有羽毛和翅膀」\|Hope Is the Thing With Feathers | [链接/Link](https://www.bilibili.com/video/BV1Tf421m7iW/)    | [链接/Link](https://www.youtube.com/watch?v=l8-v7ZnNB_c)     |
+
+## 同人歌曲 Fan-made music
+
+| 名称                       | bilibili                                                  | youtube                                                  |
+| :------------------------- | :-------------------------------------------------------- | :------------------------------------------------------- |
+| 致：黯淡星                 | [链接/Link](https://www.bilibili.com/video/BV1wT411t7HA/) | [链接/Link](https://www.youtube.com/watch?v=97O6aeQkJvs) |
+| 流萤原创同人曲《飞萤燃夜》 | [链接/Link](https://www.bilibili.com/video/BV1UJ4m1u7gD/) | [链接/Link](https://www.youtube.com/watch?v=wX0iN0lb5Gg) |
 
 ## 大型同人节目视频 Fan-made concert
 
@@ -95,6 +111,20 @@
 | 骚橙丶      | [链接/Link](https://space.bilibili.com/1876542)    | [星铁2.3主线复盘解析](https://www.bilibili.com/video/BV1zy411q7Q6/) |
 | 醋里有毒    | [链接/Link](https://space.bilibili.com/2504718)    | [原神剧情挖掘机](https://space.bilibili.com/2504718/channel/seriesdetail?sid=562486) |
 
+## 有影响力的同人作品 Influential fan works
+
+有太多太多优秀的作品，我只能挑出其中一部分，光是播放量破百万的作品就极其极其多。
+
+|                                      |                                                           |                                                          |      |                                                              |
+| :----------------------------------- | :-------------------------------------------------------- | :------------------------------------------------------- | :--- | :----------------------------------------------------------- |
+| 名称                                 | bilibili                                                  | youtube                                                  | 点评 | 相关视频                                                     |
+| 星穹铁道最浪漫的支线，没有之一！！！ | [链接/Link](https://www.bilibili.com/video/BV1wT411t7HA/) | [链接/Link](https://www.youtube.com/watch?v=97O6aeQkJvs) |      |                                                              |
+| 就饶了小女子吧                       | [链接/Link](https://www.bilibili.com/video/BV1Ks4y1R7cP/) |                                                          |      | [不要叫恩公 叫相公！](https://www.bilibili.com/video/BV1GP41117td/) \| [停云姐姐这么做，一定有她的大道理](https://www.bilibili.com/video/BV1Zo4y1s7sH/) |
+| 脑瓜不太好的样子                     | [链接/Link](https://www.bilibili.com/video/BV1ez4y1c7oa/) |                                                          |      | [《文化沙漠组》](https://www.bilibili.com/video/BV1Gu4y1b76B/) |
+
+
+
+
 
 ## 百科 Wiki
 
@@ -132,5 +162,4 @@
 ## 官方模型 Official model
 
 [崩坏：星穹铁道-模之屋](https://www.aplaybox.com/u/516827875)
-
 
