@@ -457,9 +457,13 @@
 
 ## 百科 Wiki
 
-[B站-原神百科wiki](https://wiki.biligame.com/ys/%E9%A6%96%E9%A1%B5)  | [米游社-原神观测枢](https://bbs.mihoyo.com/ys/obc/)| [Fandom-原神百科](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki) |
+[版本历史](https://wiki.biligame.com/ys/%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2)  | [活动历史](https://wiki.biligame.com/ys/%E6%B4%BB%E5%8A%A8%E4%B8%80%E8%A7%88) | [祈愿历史](https://wiki.biligame.com/ys/%E7%A5%88%E6%84%BF)
+
+[B站-原神百科wiki](https://wiki.biligame.com/ys/%E9%A6%96%E9%A1%B5)  | [米游社-原神观测枢](https://bbs.mihoyo.com/ys/obc/)| [Fandom-原神百科](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki) | [HoYoLab wiki](https://wiki.hoyolab.com/)
 
 [米游社-原神地图](https://act.mihoyo.com/ys/app/interactive-map/index.html) | [HoyoLab-地图](https://act.hoyolab.com/ys/app/interactive-map/index.html)
+
+[官方图](https://wiki.biligame.com/ys/%E7%94%BB%E5%BB%8A)
 
 [米游社-官方壁纸](https://act.mihoyo.com/ys/event/community-content-collection/index.html?game_biz=hk4e_cn&mhy_presentation_style=fullscreen&mhy_auth_required=true&mhy_hide_status_bar=true&utm_source=gw&utm_medium=ys&utm_campaign=sns#/wallpaper)  | [米游社-同人图区](https://www.miyoushe.com/ys/home/29)| [米游社-COS区](https://www.miyoushe.com/ys/home/49)
 
@@ -468,8 +472,6 @@
 [米游社-尘歌壶摹本交流平台](https://webstatic.mihoyo.com/ys/event/e20221121ugc/index.html?mhy_presentation_style=fullscreen&mhy_auth_required=true&game_biz=hk4e_cn&utm_source=share&utm_medium=bbs&utm_campaign=app#/)
 
 [原神Project官方漫画](https://www.miyoushe.com/ys/article/60070) | [《原神》四格漫画](https://manga.bilibili.com/detail/mc28983) | [米游社-萤四格漫画1-900+](https://www.miyoushe.com/ys/accountCenter/collectionList?id=81879993)
-
-
 
 
 
