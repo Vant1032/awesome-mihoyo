@@ -20,7 +20,26 @@ export default defineConfig({
   sitemap: {
     hostname: env('https://awesome-mihoyo.vercel.app/', 'https://awesome-mihoyo.pages.dev/', 'https://vant1032.github.io/awesome-mihoyo/'),
   },
-
+  head: [
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-G2QJKJ9C6H' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-G2QJKJ9C6H');`
+    ],
+    [
+      'meta',
+      {
+        name: 'baidu-site-verification', content: 'codeva-NRguDBtg3N'
+      }
+    ]
+  ],
   themeConfig: {
     search: {
       provider: 'local',
