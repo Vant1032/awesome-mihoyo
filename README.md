@@ -238,70 +238,81 @@
 
 收集资料过程中发现原神在B站的二创up主实在是太多了，我不可能覆盖完全，我只能选取一些代表性的，更多up主看这：[全体原神up主粉丝量排名【第100～1名】【2024/01】](https://www.bilibili.com/video/BV1yi4y1i7nW) 、 [全体原神up主粉丝量排名【第200～101名】【2024/01】](https://www.bilibili.com/video/BV1d5411i7Yy)。
 
-| 名称            | bilibili                                                 | 抖音                                        | youtube                                                 |
-| --------------- | -------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------- |
-| 哈米伦的弄笛者  | [链接/Link](https://space.bilibili.com/11742550)         | [链接/Link](https://v.douyin.com/i2AHq9py/) | [链接/Link](https://www.youtube.com/@hamelin_)          |
-| 暗猫の祝福      | [链接/Link](https://space.bilibili.com/888465)           | [链接/Link](https://v.douyin.com/i2APf567/) | [链接/Link](https://www.youtube.com/@MiotaWorks)        |
-| 喵太社Miota     | [链接/Link](https://space.bilibili.com/2632731)          |                                             | [链接/Link](https://www.youtube.com/@MiotaWorks)        |
-| 果蝇轰          | [链接/Link](https://space.bilibili.com/8469526)          |                                             |                                                         |
-| 空耳狂魔        | [链接/Link](https://space.bilibili.com/3127528/video)    | [链接/Link](https://v.douyin.com/i2APVYFn/) | [链接/Link](https://www.youtube.com/@kongerkuangmo8859) |
-| 空美町          | [链接/Link](https://space.bilibili.com/168687092)        | [链接/Link](https://v.douyin.com/i2AHqaLb/) |                                                         |
-| 皮蜥蜥          | [链接/Link](https://space.bilibili.com/35386084)         | [链接/Link](https://v.douyin.com/i2DCUbHj/) | [链接/Link](https://www.youtube.com/@user-by3hd2cs4v)   |
-| 霍宝Moira       | [链接/Link](https://space.bilibili.com/12344893)         |                                             |                                                         |
-| 热馊馊          | [链接/Link](https://space.bilibili.com/2505015)          | [链接/Link](https://v.douyin.com/i2ATQ2cn/) | [链接/Link](https://www.youtube.com/@ReSousou_yt)       |
-| 愚人戏社        | [链接/Link](https://space.bilibili.com/1011627201/video) | [链接/Link](https://v.douyin.com/i2AP3cRG/) |                                                         |
-| 某门卫          | [链接/Link](https://space.bilibili.com/512193161)        | [链接/Link](https://v.douyin.com/i2APmJuj/) |                                                         |
-| 折腾5号         | [链接/Link](https://space.bilibili.com/927687)           | [链接/Link](https://v.douyin.com/i2APYpeE/) | [链接/Link](https://www.youtube.com/@zhetengV)          |
-| 不死な千咲      | [链接/Link](https://space.bilibili.com/11685197)         |                                             | [链接/Link](https://www.youtube.com/@chisakiworks6446)  |
-| NZ75鸽          | [链接/Link](https://space.bilibili.com/160972207)        | [链接/Link](https://v.douyin.com/i2DDmbQh/) | [链接/Link](https://www.youtube.com/@nz7595)            |
-| 漾少侠          | [链接/Link](https://space.bilibili.com/259584300)        | [链接/Link](https://v.douyin.com/i2Auua5q/) | [链接/Link](https://www.youtube.com/@yangshaoxia)       |
-| 派蒙科普        | [链接/Link](https://space.bilibili.com/3461575566428399) | [链接/Link](https://v.douyin.com/i2AHu2Kp/) | [链接/Link](https://www.youtube.com/@LittlePaimon)      |
-| 万老板          | [链接/Link](https://space.bilibili.com/7907806)          |                                             | [链接/Link](https://www.youtube.com/@user-vs4dt7mo8i)   |
-| 蚀血之暗        | [链接/Link](https://space.bilibili.com/210291)           | [链接/Link](https://v.douyin.com/i2DNhqa2/) | [链接/Link](https://www.youtube.com/@user-yi5jk7vg5v)   |
-| 超想吃番茄      | [链接/Link](https://space.bilibili.com/7086255)          | [链接/Link](https://v.douyin.com/i2DYRhwC/) | [链接/Link](https://www.youtube.com/@toma9361)          |
-| 叶玲秋雨        | [链接/Link](https://space.bilibili.com/396657882)        | [链接/Link](https://v.douyin.com/i6BWE7sX/) | [链接/Link](https://www.youtube.com/@Yelin2)            |
-| 巫兔菌          | [链接/Link](https://space.bilibili.com/742472)           | [链接/Link](https://v.douyin.com/i2DxNQ9y/) | [链接/Link](https://www.youtube.com/@user-yx6yg1uq5w)   |
-| 一万根韭菜      | [链接/Link](https://space.bilibili.com/287551041)        | [链接/Link](https://v.douyin.com/i2Agvgw1/) | [链接/Link](https://www.youtube.com/@leekparty4309)     |
-| 一头的秀发      | [链接/Link](https://space.bilibili.com/1887401)          | [链接/Link](https://v.douyin.com/i2D9nWdg/) |                                                         |
-| 街憬            | [链接/Link](https://space.bilibili.com/98913792)         |                                             | [链接/Link](https://www.youtube.com/@user-fc9rg8tk9u)   |
-| 老子150         | [链接/Link](https://space.bilibili.com/6159926)          |                                             | [链接/Link](https://www.youtube.com/@Laozi150)          |
-| 元素领主墨元素  | [链接/Link](https://space.bilibili.com/22157527)         |                                             | [链接/Link](https://www.youtube.com/@user-rk3hx1wt9u)   |
-| 魏晋南北        | [链接/Link](https://space.bilibili.com/5591639)          |                                             |                                                         |
-| 双马尾的麻薯    | [链接/Link](https://space.bilibili.com/309266471)        |                                             |                                                         |
-| 卢诺米阿玛斯宾  | [链接/Link](https://space.bilibili.com/512839)           |                                             | [链接/Link](https://www.youtube.com/@LuNuoMiAMaSiBin)   |
-| 可靠de伏特加    | [链接/Link](https://space.bilibili.com/50844167)         | [链接/Link](https://v.douyin.com/i2A9T5eQ/) |                                                         |
-| 甲坂鱿鱼        | [链接/Link](https://space.bilibili.com/3714181)          |                                             |                                                         |
-| 星魂桑          | [链接/Link](https://space.bilibili.com/9096433)          | [链接/Link](https://v.douyin.com/i2D2py27/) | [链接/Link](https://www.youtube.com/@XingHunSang)       |
-| 菜鸟阿彪        | [链接/Link](https://space.bilibili.com/2008066013)       | [链接/Link](https://v.douyin.com/i2A3VcSW/) |                                                         |
-| 猹泡饭233       | [链接/Link](https://space.bilibili.com/629825579)        | [链接/Link](https://v.douyin.com/i2A9LA11/) |                                                         |
-| 麦粒太太        | [链接/Link](https://space.bilibili.com/43367551)         |                                             | [链接/Link](https://www.youtube.com/@ver7055)           |
-| 托宝_TORBJORN   | [链接/Link](https://space.bilibili.com/32618090)         |                                             | [链接/Link](https://www.youtube.com/@user-rm5sq5xs1q)   |
-| 急救猫_-        | [链接/Link](https://space.bilibili.com/407241075)        |                                             |                                                         |
-| 西瓜酥Su        | [链接/Link](https://space.bilibili.com/280011366)        | [链接/Link](https://v.douyin.com/i2AxvPVQ/) |                                                         |
-| 柑宝            | [链接/Link](https://space.bilibili.com/187681452)        | [链接/Link](https://v.douyin.com/i2AxHY43/) | [链接/Link](https://www.youtube.com/@ganbaodaisuki)     |
-| 金咸鱼          | [链接/Link](https://space.bilibili.com/24961799)         | [链接/Link](https://v.douyin.com/i2AuQKse/) | [链接/Link](https://www.youtube.com/@GoldensaltFish)    |
-| 小团雀原神      | [链接/Link](https://space.bilibili.com/1886622622)       |                                             |                                                         |
-| 伊零Onezero     | [链接/Link](https://space.bilibili.com/293753863)        | [链接/Link](https://v.douyin.com/i2AxPPYU/) |                                                         |
-| 屑老板XBOSS     | [链接/Link](https://space.bilibili.com/18614623)         | [链接/Link](https://v.douyin.com/i2AxtQFr/) |                                                         |
-| 越弟            | [链接/Link](https://space.bilibili.com/341704094)        | [链接/Link](https://v.douyin.com/i2AV2Fxv/) |                                                         |
-| 死桔子          | [链接/Link](https://space.bilibili.com/23197979)         | [链接/Link](https://v.douyin.com/i2AgNYhG/) | [链接/Link](https://www.youtube.com/@user-dd6bs3ch4d)   |
-| 神帝宇          | [链接/Link](https://space.bilibili.com/7767105)          |                                             |                                                         |
-| 麟彬-阿波卡利斯 | [链接/Link](https://space.bilibili.com/36800460/)        | [链接/Link](https://v.douyin.com/i6BsrCDj/) |                                                         |
-| 甜甜草酿鸡      | [链接/Link](https://space.bilibili.com/403425503)        | [链接/Link](https://v.douyin.com/i2Abkq6K/) |                                                         |
-| 邱人Lin         | [链接/Link](https://space.bilibili.com/545004269)        |                                             |                                                         |
-| -路人亦ONE-     | [链接/Link](https://space.bilibili.com/454639870)        | [链接/Link](https://v.douyin.com/i2A7uDDP/) |                                                         |
-| RockyRoo        | [链接/Link](https://space.bilibili.com/39012132)         |                                             | [链接/Link](https://www.youtube.com/@rockyroo2952)      |
-| 浅月carol       | [链接/Link](https://space.bilibili.com/13802568)         | [链接/Link](https://v.douyin.com/i2AqyHbw/) |                                                         |
-| 是子梦君o       | [链接/Link](https://space.bilibili.com/435755604)        | [链接/Link](https://v.douyin.com/i2AvQKpb/) |                                                         |
-| 我可莉害了V     | [链接/Link](https://space.bilibili.com/545540716)        | [链接/Link](https://v.douyin.com/i2ytqdbh/) |                                                         |
-| 杨启明同学      | [链接/Link](https://space.bilibili.com/33802590)         | [链接/Link](https://v.douyin.com/i2PjXRbu/) |                                                         |
-| 黑色蝌蚪君      | [链接/Link](https://space.bilibili.com/87305034)         | [链接/Link](https://v.douyin.com/i2DRc6wj/) |                                                         |
-| 交易失败的菊菊  | [链接/Link](https://space.bilibili.com/12488618)         |                                             |                                                         |
-| 我是小狄xiaodi  | [链接/Link](https://space.bilibili.com/89433414)         |                                             |                                                         |
-| 伏特加少女      | [链接/Link](https://space.bilibili.com/151274245)        |                                             | [链接/Link](https://www.youtube.com/@GirlVodka)         |
-| 陪君柳下走      | [链接/Link](https://space.bilibili.com/7970760)          | [链接/Link](https://v.douyin.com/i2Av6e92/) |                                                         |
-| Happy_Twins     | [链接/Link](https://space.bilibili.com/405845641)        | [链接/Link](https://v.douyin.com/iMhaXQ6A/) |                                                         |
-| 旋风博文        | [链接/Link](https://space.bilibili.com/11912132)         | [链接/Link](https://v.douyin.com/iMhmacSP/) |                                                         |
+| 名称             | bilibili                                                 | 抖音                                                         | youtube                                                     |
+| ---------------- | -------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
+| 哈米伦的弄笛者   | [链接/Link](https://space.bilibili.com/11742550)         | [链接/Link](https://v.douyin.com/i2AHq9py/)                  | [链接/Link](https://www.youtube.com/@hamelin_)              |
+| 暗猫の祝福       | [链接/Link](https://space.bilibili.com/888465)           | [链接/Link](https://v.douyin.com/i2APf567/)                  | [链接/Link](https://www.youtube.com/@MiotaWorks)            |
+| 喵太社Miota      | [链接/Link](https://space.bilibili.com/2632731)          |                                                              | [链接/Link](https://www.youtube.com/@MiotaWorks)            |
+| 果蝇轰           | [链接/Link](https://space.bilibili.com/8469526)          |                                                              |                                                             |
+| 空耳狂魔         | [链接/Link](https://space.bilibili.com/3127528/video)    | [链接/Link](https://v.douyin.com/i2APVYFn/)                  | [链接/Link](https://www.youtube.com/@kongerkuangmo8859)     |
+| 空美町           | [链接/Link](https://space.bilibili.com/168687092)        | [链接/Link](https://v.douyin.com/i2AHqaLb/)                  |                                                             |
+| 皮蜥蜥           | [链接/Link](https://space.bilibili.com/35386084)         | [链接/Link](https://v.douyin.com/i2DCUbHj/)                  | [链接/Link](https://www.youtube.com/@user-by3hd2cs4v)       |
+| 霍宝Moira        | [链接/Link](https://space.bilibili.com/12344893)         |                                                              |                                                             |
+| 热馊馊           | [链接/Link](https://space.bilibili.com/2505015)          | [链接/Link](https://v.douyin.com/i2ATQ2cn/)                  | [链接/Link](https://www.youtube.com/@ReSousou_yt)           |
+| 愚人戏社         | [链接/Link](https://space.bilibili.com/1011627201/video) | [链接/Link](https://v.douyin.com/i2AP3cRG/)                  |                                                             |
+| 某门卫           | [链接/Link](https://space.bilibili.com/512193161)        | [链接/Link](https://v.douyin.com/i2APmJuj/)                  |                                                             |
+| 折腾5号          | [链接/Link](https://space.bilibili.com/927687)           | [链接/Link](https://v.douyin.com/i2APYpeE/)                  | [链接/Link](https://www.youtube.com/@zhetengV)              |
+| 不死な千咲       | [链接/Link](https://space.bilibili.com/11685197)         |                                                              | [链接/Link](https://www.youtube.com/@chisakiworks6446)      |
+| NZ75鸽           | [链接/Link](https://space.bilibili.com/160972207)        | [链接/Link](https://v.douyin.com/i2DDmbQh/)                  | [链接/Link](https://www.youtube.com/@nz7595)                |
+| 漾少侠           | [链接/Link](https://space.bilibili.com/259584300)        | [链接/Link](https://v.douyin.com/i2Auua5q/)                  | [链接/Link](https://www.youtube.com/@yangshaoxia)           |
+| 派蒙科普         | [链接/Link](https://space.bilibili.com/3461575566428399) | [链接/Link](https://v.douyin.com/i2AHu2Kp/)                  | [链接/Link](https://www.youtube.com/@LittlePaimon)          |
+| 万老板           | [链接/Link](https://space.bilibili.com/7907806)          |                                                              | [链接/Link](https://www.youtube.com/@user-vs4dt7mo8i)       |
+| 蚀血之暗         | [链接/Link](https://space.bilibili.com/210291)           | [链接/Link](https://v.douyin.com/i2DNhqa2/)                  | [链接/Link](https://www.youtube.com/@user-yi5jk7vg5v)       |
+| 超想吃番茄       | [链接/Link](https://space.bilibili.com/7086255)          | [链接/Link](https://v.douyin.com/i2DYRhwC/)                  | [链接/Link](https://www.youtube.com/@toma9361)              |
+| 叶玲秋雨         | [链接/Link](https://space.bilibili.com/396657882)        | [链接/Link](https://v.douyin.com/i6BWE7sX/)                  | [链接/Link](https://www.youtube.com/@Yelin2)                |
+| 巫兔菌           | [链接/Link](https://space.bilibili.com/742472)           | [链接/Link](https://v.douyin.com/i2DxNQ9y/)                  | [链接/Link](https://www.youtube.com/@user-yx6yg1uq5w)       |
+| 一万根韭菜       | [链接/Link](https://space.bilibili.com/287551041)        | [链接/Link](https://v.douyin.com/i2Agvgw1/)                  | [链接/Link](https://www.youtube.com/@leekparty4309)         |
+| 一头的秀发       | [链接/Link](https://space.bilibili.com/1887401)          | [链接/Link](https://v.douyin.com/i2D9nWdg/)                  |                                                             |
+| 街憬             | [链接/Link](https://space.bilibili.com/98913792)         |                                                              | [链接/Link](https://www.youtube.com/@user-fc9rg8tk9u)       |
+| 老子150          | [链接/Link](https://space.bilibili.com/6159926)          |                                                              | [链接/Link](https://www.youtube.com/@Laozi150)              |
+| 元素领主墨元素   | [链接/Link](https://space.bilibili.com/22157527)         |                                                              | [链接/Link](https://www.youtube.com/@user-rk3hx1wt9u)       |
+| 魏晋南北         | [链接/Link](https://space.bilibili.com/5591639)          |                                                              |                                                             |
+| 双马尾的麻薯     | [链接/Link](https://space.bilibili.com/309266471)        |                                                              |                                                             |
+| 卢诺米阿玛斯宾   | [链接/Link](https://space.bilibili.com/512839)           |                                                              | [链接/Link](https://www.youtube.com/@LuNuoMiAMaSiBin)       |
+| 可靠de伏特加     | [链接/Link](https://space.bilibili.com/50844167)         | [链接/Link](https://v.douyin.com/i2A9T5eQ/)                  |                                                             |
+| 甲坂鱿鱼         | [链接/Link](https://space.bilibili.com/3714181)          |                                                              |                                                             |
+| 星魂桑           | [链接/Link](https://space.bilibili.com/9096433)          | [链接/Link](https://v.douyin.com/i2D2py27/)                  | [链接/Link](https://www.youtube.com/@XingHunSang)           |
+| 菜鸟阿彪         | [链接/Link](https://space.bilibili.com/2008066013)       | [链接/Link](https://v.douyin.com/i2A3VcSW/)                  |                                                             |
+| 猹泡饭233        | [链接/Link](https://space.bilibili.com/629825579)        | [链接/Link](https://v.douyin.com/i2A9LA11/)                  |                                                             |
+| 麦粒太太         | [链接/Link](https://space.bilibili.com/43367551)         |                                                              | [链接/Link](https://www.youtube.com/@ver7055)               |
+| 托宝_TORBJORN    | [链接/Link](https://space.bilibili.com/32618090)         |                                                              | [链接/Link](https://www.youtube.com/@user-rm5sq5xs1q)       |
+| 急救猫_-         | [链接/Link](https://space.bilibili.com/407241075)        |                                                              |                                                             |
+| 西瓜酥Su         | [链接/Link](https://space.bilibili.com/280011366)        | [链接/Link](https://v.douyin.com/i2AxvPVQ/)                  |                                                             |
+| 柑宝             | [链接/Link](https://space.bilibili.com/187681452)        | [链接/Link](https://v.douyin.com/i2AxHY43/)                  | [链接/Link](https://www.youtube.com/@ganbaodaisuki)         |
+| 金咸鱼           | [链接/Link](https://space.bilibili.com/24961799)         | [链接/Link](https://v.douyin.com/i2AuQKse/)                  | [链接/Link](https://www.youtube.com/@GoldensaltFish)        |
+| 小团雀原神       | [链接/Link](https://space.bilibili.com/1886622622)       |                                                              |                                                             |
+| 伊零Onezero      | [链接/Link](https://space.bilibili.com/293753863)        | [链接/Link](https://v.douyin.com/i2AxPPYU/)                  |                                                             |
+| 屑老板XBOSS      | [链接/Link](https://space.bilibili.com/18614623)         | [链接/Link](https://v.douyin.com/i2AxtQFr/)                  |                                                             |
+| 越弟             | [链接/Link](https://space.bilibili.com/341704094)        | [链接/Link](https://v.douyin.com/i2AV2Fxv/)                  |                                                             |
+| 死桔子           | [链接/Link](https://space.bilibili.com/23197979)         | [链接/Link](https://v.douyin.com/i2AgNYhG/)                  | [链接/Link](https://www.youtube.com/@user-dd6bs3ch4d)       |
+| 神帝宇           | [链接/Link](https://space.bilibili.com/7767105)          |                                                              |                                                             |
+| 麟彬-阿波卡利斯  | [链接/Link](https://space.bilibili.com/36800460/)        | [链接/Link](https://v.douyin.com/i6BsrCDj/)                  |                                                             |
+| 甜甜草酿鸡       | [链接/Link](https://space.bilibili.com/403425503)        | [链接/Link](https://v.douyin.com/i2Abkq6K/)                  |                                                             |
+| 邱人Lin          | [链接/Link](https://space.bilibili.com/545004269)        |                                                              |                                                             |
+| -路人亦ONE-      | [链接/Link](https://space.bilibili.com/454639870)        | [链接/Link](https://v.douyin.com/i2A7uDDP/)                  |                                                             |
+| RockyRoo         | [链接/Link](https://space.bilibili.com/39012132)         |                                                              | [链接/Link](https://www.youtube.com/@rockyroo2952)          |
+| 浅月carol        | [链接/Link](https://space.bilibili.com/13802568)         | [链接/Link](https://v.douyin.com/i2AqyHbw/)                  |                                                             |
+| 是子梦君o        | [链接/Link](https://space.bilibili.com/435755604)        | [链接/Link](https://v.douyin.com/i2AvQKpb/)                  |                                                             |
+| 我可莉害了V      | [链接/Link](https://space.bilibili.com/545540716)        | [链接/Link](https://v.douyin.com/i2ytqdbh/)                  |                                                             |
+| 杨启明同学       | [链接/Link](https://space.bilibili.com/33802590)         | [链接/Link](https://v.douyin.com/i2PjXRbu/)                  |                                                             |
+| 黑色蝌蚪君       | [链接/Link](https://space.bilibili.com/87305034)         | [链接/Link](https://v.douyin.com/i2DRc6wj/)                  |                                                             |
+| 交易失败的菊菊   | [链接/Link](https://space.bilibili.com/12488618)         |                                                              |                                                             |
+| 我是小狄xiaodi   | [链接/Link](https://space.bilibili.com/89433414)         |                                                              |                                                             |
+| 伏特加少女       | [链接/Link](https://space.bilibili.com/151274245)        |                                                              | [链接/Link](https://www.youtube.com/@GirlVodka)             |
+| 陪君柳下走       | [链接/Link](https://space.bilibili.com/7970760)          | [链接/Link](https://v.douyin.com/i2Av6e92/)                  |                                                             |
+| Happy_Twins      | [链接/Link](https://space.bilibili.com/405845641)        | [链接/Link](https://v.douyin.com/iMhaXQ6A/)                  |                                                             |
+| 旋风博文         | [链接/Link](https://space.bilibili.com/11912132)         | [链接/Link](https://v.douyin.com/iMhmacSP/)                  |                                                             |
+| 龙虾ゞ           | [链接/Link](https://space.bilibili.com/298254767/video)  | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAGVpj7wLsvipIRyuI7BQMZclsARJ83Fd0Q9bpufvR_cA) |                                                             |
+| ulu秋名山        | [链接/Link](https://space.bilibili.com/351170066/video)  | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAADd1gBnapeZmyC_5yilICFu91dPmohrygkTaOpJfgdE4hX_uUo6vetFeve3RagZeS) | [链接/Link](https://www.youtube.com/@UluQiuMingShan/videos) |
+| -阿洋Yoko-       | [链接/Link](https://space.bilibili.com/282960675/video)  | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAADwob-OX-sNnRMPcpIg8uehVouJ7waxmK-KCxQtyu289MNWMdNxsM82bfQEiTSQOQ) | [链接/Link](https://www.youtube.com/@-yoko-8658/videos)     |
+| -杏仁豆腐-       |                                                          | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAOrPctQiip_yA8ylD1amADrUtRYcoWBRpFRPynlB3_qM) |                                                             |
+| 澈零喵           | [链接/Link](https://space.bilibili.com/252680534/video)  | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAK7P44jncPwWWHFj6UGuz2JruisTjqxP6QvIinkSvA20) |                                                             |
+| RockyRoo         | [链接/Link](https://space.bilibili.com/39012132/video)   |                                                              |                                                             |
+| 锌之助吖         | [链接/Link](https://space.bilibili.com/189283155/video)  | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAWgA2raChfyQkcbISrPOu1yr_RftucWcMVPJBCbq6jYI) |                                                             |
+| 帷幕VMovie       | [链接/Link](https://space.bilibili.com/2169841/video)    | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAOC-pZapAUjBUyZpnKO8-8R-1A0ZM_-kABgpa2Aju2-V_IJlptqyqzYgmVVrVKuMj) | [链接/Link](https://www.youtube.com/@VMovie-CN/videos)      |
+| 是安澜YA         | [链接/Link](https://space.bilibili.com/73646893/video)   | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAvK-m7b1ojF_IIOPtkOyZAq9qpdWrV5DZE6nLOtW-SQQ) |                                                             |
+| RK贝今天也很快乐 | [链接/Link](https://space.bilibili.com/37654020/video)   | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAd6y8p2yHUNWdxA8WuI3m5VfG4Fhn9k88Msn8M5CX71StMJZzSOhNEZ-yKaXTrIhp) | [链接/Link](https://www.youtube.com/@RKBei/videos)          |
+| 姬海棠羽笠果     | [链接/Link](https://space.bilibili.com/1529788/video)    | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAXQeX6KjihKiMoGmwFi5x_Yj6nf7RJIk4VbPD9sXBqLM6AFP7v3Md5IeaMmKtWuGB) |                                                             |
 
 ### 国外 English
 
@@ -316,6 +327,9 @@
 | Zy0x             |                                                          | [链接/Link](https://www.youtube.com/@Zy0x)            |
 | ON Game          |                                                          | [链接/Link](https://www.youtube.com/@ongamech)        |
 | Reizo_Animations | [链接/Link](https://space.bilibili.com/3546566539348545) | [链接/Link](https://www.youtube.com/@Reizo.Genshin)   |
+| Flasso           |                                                          | [链接/Link](https://www.youtube.com/@Flasso/videos)   |
+| m1s3n            | [链接/Link](https://space.bilibili.com/1989413009/video) | [链接/Link](https://www.youtube.com/@m1s3n/videos)    |
+| きゆう           |                                                          | [链接/Link](https://www.youtube.com/@kiyu623/videos)  |
 
 
 
@@ -423,6 +437,7 @@
 | 说好一起的打游戏呢？                                         | [链接/Link](https://www.bilibili.com/video/BV1XR4y1w7TN)     |                                                          | 幼版角色                                   | [拟态Baby辣.原神MV](https://space.bilibili.com/545004269/channel/collectiondetail?sid=291183) |
 | 原神中那些治愈的台词！                                       | [链接/Link](https://www.bilibili.com/video/BV125411Q75x)     |                                                          | 治愈的台词                                 | [原神中那些无法超越的经典台词](https://www.bilibili.com/video/BV1mY4y1q7zC) \|   [“仅此四十六分四十秒，究竟怎样的结局才能配上这一路颠沛流离”](https://www.bilibili.com/video/BV1q44y1X7rj) |
 | 【原神/Umbrella】就让这个视频成为你喜欢上原神的理由吧！      | [链接/Link](https://www.bilibili.com/video/BV1A5411D7pv)     |                                                          | 宣传片向                                   | [当你消失之日](https://www.bilibili.com/video/BV1fN411R7Hb)  |
+| 【原神】看好了！ 蒙德滑梯是这样玩的！                        | [链接/Link](https://www.bilibili.com/video/BV1Ug41157hh/)    |                                                          | 大招展示                                   | [蒙德打卡点，这不比璃月滑梯好玩一百倍？](https://www.bilibili.com/video/BV1Vb4y167x3/)  \| [【原神2021】滑梯一周年 全员出动](https://www.bilibili.com/video/BV1eM4y1F7Hz/) |
 | 【耗时90天努力高质量制作】这就是热衷于原神的原因吧！         | [链接/Link](https://www.bilibili.com/video/BV1eu411F7v1)     |                                                          | 剪辑向                                     | [“仅此四十六分四十秒，究竟怎样的结局才能配上这一路颠沛流离”](https://www.bilibili.com/video/BV1q44y1X7rj?t=17.9) \| [原神魅力何在？耗时一年，这些就是我的答案！](https://www.bilibili.com/video/BV1RC4y1Z7ES) |
 | “ 这 就 是 璃 月 ”                                           | [链接/Link](https://www.bilibili.com/video/BV1Lc411J7eo)     |                                                          | 风景向                                     | [层岩巨渊到底有多深？第一视角沉浸式体验](https://www.bilibili.com/video/BV1EZ4y1h7i9) \| [你为什么玩原神?这就是我玩的意义！4k层岩巨渊！](https://www.bilibili.com/video/BV1AY4y1W7od) \| [米哈游美术到底有多棒？4K镜头下的渊下宫！](https://www.bilibili.com/video/BV1jq4y127Tm) |
 | 【原神】如果提瓦特也有国家地理摄影大赛？                     | [链接/Link](https://www.bilibili.com/video/BV1AF411N7Zv)     |                                                          | 摄影向                                     | [【原神 摄影】六位原摄博主为我制作了收藏级的画面!](https://www.bilibili.com/video/BV13Z421v7e6) \| [【提瓦特摄影挑战】原摄玩家镜头下的角色写真！](https://www.bilibili.com/video/BV1R64y177ny) \| [沙漠](https://www.bilibili.com/video/BV1N8411s7jT) |
@@ -431,6 +446,7 @@
 | 【纳西妲生日会】万人大合唱《我不曾忘记》                     | [链接/Link](https://www.bilibili.com/video/BV1ah4y1B7Pf)     |                                                          | 歌曲翻唱                                   | [26位唱见催泪翻唱！极致还原兰那罗大合唱《我不曾忘记》](https://www.bilibili.com/video/BV1PD4y1T73X) |
 | 芙卡洛斯『Queencard』                                        | [链接/Link](https://www.bilibili.com/video/BV1br4y1Z7ir)     |                                                          | MMD                                        | [这可莉海了！](https://www.bilibili.com/video/BV1ig411L7ED)  |
 | 铃芽之旅，不过是原神                                         | [链接/Link](https://www.bilibili.com/video/BV1694y1r77d)     |                                                          | 画风变化                                   | [用宫崎骏画风打开原神](https://www.bilibili.com/video/BV1Lj411k7wf) \| [当你用九十年代的画风打开原神](https://www.bilibili.com/video/BV15P4y1j7SF) |
+| 【原神】仙剑奇侠传！                                         | [链接/Link](https://www.bilibili.com/video/BV1gy4y1e7Vn/)    |                                                          | 仙剑改                                     | [仙 剑 原 神 传【用仙剑的方式打开原神】](https://www.bilibili.com/video/BV1154y1e7EK/) |
 | 《原神》角色演示-「钟莉：哒哒哒」                            | [链接/Link](https://www.bilibili.com/video/BV1a34y127yT)     |                                                          | 官方PV改编                                 | [   ](https://www.bilibili.com/v/popular/weekly?num=137)[《原魔》角色演示-「钟巴：听书人」](https://www.bilibili.com/video/BV1d34y1i76d) \| [《原神》角色演示-「八 重 蔡 子」](https://www.bilibili.com/video/BV1X341177zi) \| [《原神》角色演示-「李云龙：哒哒哒」](https://www.bilibili.com/video/BV14V411W7wn) |
 | 丘丘人100小时徒手挖须弥小屋                                  | [链接/Link](https://www.bilibili.com/video/BV1PW4y1b7i2)     |                                                          | 现实建造                                   |                                                              |
 | 耗时3720小时，原神史上首个角色最高伤害诞生！巅峰无法被撼动，因已达到极限！ | [链接/Link](https://www.bilibili.com/video/BV1fP411f7ZW)     |                                                          | 核爆                                       | [见证历史！全网首位元素伤害达到上限！神座芙卡洛斯归位！](https://www.bilibili.com/video/BV1Qg4y1X7o6) \| [优菈首个999w演示，载入原神史册，终结了原神核爆最强之争，登顶神座！](https://www.bilibili.com/video/BV1QT41167Mh) |
@@ -452,6 +468,7 @@
 | 【神女劈观】中华淮剧请求出战！淮剧公主陈澄淮剧方言翻唱版参与内卷 | [链接/Link](https://www.bilibili.com/video/BV1ra41127LP)     |                                                          | 原神x戏剧                                  | [央视-当《神女劈观》遇上《木兰诗》 尚雯婕杨扬上演跨界合唱](https://www.bilibili.com/video/BV1oY4y1f7qf) \| [【原神】国家队申请出战！「京剧老生」再唱《神女劈观》feel大不同！！](https://www.bilibili.com/video/BV1p44y1s7z1) \| [神女劈观 黄梅戏版《关于大家那么能卷，我实在不知道该怎么卷翻唱这件事》](https://www.bilibili.com/video/BV1PR4y1u71z) \| [【郑潇】国家队来了！戏腔翻唱「神女劈观」](https://www.bilibili.com/video/BV1yR4y1g72a) \| [【原神】国家队请求出战！一级唢呐演奏员吹《神女劈观》，神复刻超还原！](https://www.bilibili.com/video/BV1Pq4y117Ms) \| [虽迟但到！原神《神女劈观》山东队申请出战！山东柳子戏唱腔宛转悠扬！](https://www.bilibili.com/video/BV1ET4y1S7rs) |
 | 全网首发！谁拥有最美丝袜？米兰服装设计师的原神全女性人物腿饰解密！ | [链接/Link](https://www.bilibili.com/video/BV1oi4y1Q7B6)     |                                                          | 服装赏析                                   | [服装设计师看原神角色衣服的反应！网络热门服装鉴定【37】原神](https://www.bilibili.com/video/BV1ht4y1R7G9) |
 | 版本节奏史                                                   | [链接/Link](https://space.bilibili.com/1903716905/channel/collectiondetail?sid=541588) |                                                          | 原神社区节奏历史                           | [（开服被水军黑古战场）全网首曝！米哈游新作《原神》游戏内容抢先曝光！](https://www.bilibili.com/video/BV13441137qo) \| [【原神冷知识】你知道开服至今原神所经历的重大节奏事件吗？](https://www.bilibili.com/video/BV13p4y1N7re/) |
+| 原神全五星角色微电影                                         | [链接/Link](https://www.bilibili.com/video/BV1A1421873u/)    |                                                          | 微电影                                     |                                                              |
 | 【才浅手工】真实还是特效？原神雷电将军武器极致还原           | [链接/Link](https://www.bilibili.com/video/BV1rh411W7nH)     |                                                          | 复刻道具                                   | [腐殖之剑，原神的美术有多强？做成实物后美爆了！](https://www.bilibili.com/video/BV1Pi4y1w7Vb) \| [【原神】去蒙德城找Hacksmith，让他为你打造一把“天空之翼”](https://www.bilibili.com/video/BV1W44y1q7vF) \| [原神 至冬工造仿和璞鸢系列武器展示：代号GSVA001-003](https://www.bilibili.com/video/BV1bp4y1H79M) \| [【原神】神里绫人专武波乱月白经津，发光武器还原](https://www.bilibili.com/video/BV19F411u7L8) |
 | 你把戒指吃下去了啊？...唔？！                                | [链接/Link](https://www.bilibili.com/video/BV1Kt421u7mJ)     |                                                          | 超甜的爱情                                 | [Youtube版](https://www.youtube.com/watch?v=9st-zZZ5bgo)     |
 
@@ -472,6 +489,10 @@
 [米游社-尘歌壶摹本交流平台](https://webstatic.mihoyo.com/ys/event/e20221121ugc/index.html?mhy_presentation_style=fullscreen&mhy_auth_required=true&game_biz=hk4e_cn&utm_source=share&utm_medium=bbs&utm_campaign=app#/)
 
 [原神Project官方漫画](https://www.miyoushe.com/ys/article/60070) | [《原神》四格漫画](https://manga.bilibili.com/detail/mc28983) | [米游社-萤四格漫画1-900+](https://www.miyoushe.com/ys/accountCenter/collectionList?id=81879993)
+
+
+
+[原神剧情党入坑游玩顺序推荐（V1.0-V4.2）](https://zhuanlan.zhihu.com/p/617576897)
 
 
 

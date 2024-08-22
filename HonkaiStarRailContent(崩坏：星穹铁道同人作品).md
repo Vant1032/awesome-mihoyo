@@ -91,15 +91,26 @@ MV
 | 交易失败的菊菊 | [链接/Link](https://space.bilibili.com/12488618)         |                                             |                                                         |
 | 我是小狄xiaodi | [链接/Link](https://space.bilibili.com/89433414)         |                                             |                                                         |
 | 伏特加少女     | [链接/Link](https://space.bilibili.com/151274245)        |                                             | [链接/Link](https://www.youtube.com/@GirlVodka)         |
+| 龙虾ゞ | [链接/Link](https://space.bilibili.com/298254767/video) | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAGVpj7wLsvipIRyuI7BQMZclsARJ83Fd0Q9bpufvR_cA) |  |
+| -阿洋Yoko- | [链接/Link](https://space.bilibili.com/282960675/video) | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAADwob-OX-sNnRMPcpIg8uehVouJ7waxmK-KCxQtyu289MNWMdNxsM82bfQEiTSQOQ) | [链接/Link](https://www.youtube.com/@-yoko-8658/videos) |
+| -杏仁豆腐- |  | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAOrPctQiip_yA8ylD1amADrUtRYcoWBRpFRPynlB3_qM) |  |
+| 澈零喵 | [链接/Link](https://space.bilibili.com/252680534/video) | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAK7P44jncPwWWHFj6UGuz2JruisTjqxP6QvIinkSvA20) |  |
+| RockyRoo | [链接/Link](https://space.bilibili.com/39012132/video) |  |  |
+| 锌之助吖 | [链接/Link](https://space.bilibili.com/189283155/video) | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAWgA2raChfyQkcbISrPOu1yr_RftucWcMVPJBCbq6jYI) |  |
+| 帷幕VMovie | [链接/Link](https://space.bilibili.com/2169841/video) | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAOC-pZapAUjBUyZpnKO8-8R-1A0ZM_-kABgpa2Aju2-V_IJlptqyqzYgmVVrVKuMj) | [链接/Link](https://www.youtube.com/@VMovie-CN/videos) |
+| RK贝今天也很快乐 | [链接/Link](https://space.bilibili.com/37654020/video) | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAd6y8p2yHUNWdxA8WuI3m5VfG4Fhn9k88Msn8M5CX71StMJZzSOhNEZ-yKaXTrIhp) | [链接/Link](https://www.youtube.com/@RKBei/videos) |
+| 呵纹Hevon | [链接/Link](https://space.bilibili.com/13167438/video) | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAXD7GnawtXKEZHp_qmfBlCfRXekFILARox111IemRhgI) | [链接/Link](https://www.youtube.com/@hevon2333/videos) |
 
 ### 国外 English
 
-| 名称        | bilibili                                           | youtube                                               |
-| ----------- | -------------------------------------------------- | ----------------------------------------------------- |
-| Rawfler     | [链接/Link](https://space.bilibili.com/1949261988) | [链接/Link](https://www.youtube.com/@Rawfler)         |
-| RiceWhale   |                                                    | [链接/Link](https://www.youtube.com/@RiceWhaleYT)     |
-| CelinePizza | [链接/Link](https://space.bilibili.com/439145835)  | [链接/Link](https://www.youtube.com/@celinepizza2263) |
-| Zy0x        |                                                    | [链接/Link](https://www.youtube.com/@Zy0x)            |
+| 名称        | bilibili                                                 | youtube                                               |
+| ----------- | -------------------------------------------------------- | ----------------------------------------------------- |
+| Rawfler     | [链接/Link](https://space.bilibili.com/1949261988)       | [链接/Link](https://www.youtube.com/@Rawfler)         |
+| RiceWhale   |                                                          | [链接/Link](https://www.youtube.com/@RiceWhaleYT)     |
+| CelinePizza | [链接/Link](https://space.bilibili.com/439145835)        | [链接/Link](https://www.youtube.com/@celinepizza2263) |
+| Zy0x        |                                                          | [链接/Link](https://www.youtube.com/@Zy0x)            |
+| Flasso      |                                                          | [链接/Link](https://www.youtube.com/@Flasso/videos)   |
+| m1s3n       | [链接/Link](https://space.bilibili.com/1989413009/video) | [链接/Link](https://www.youtube.com/@m1s3n/videos)    |
 
 ## 星铁考据 HSR lore research
 
@@ -115,12 +126,13 @@ MV
 
 有太多太多优秀的作品，我只能挑出其中一部分，光是播放量破百万的作品就极其极其多。
 
-|                                      |                                                           |                                                          |      |                                                              |
-| :----------------------------------- | :-------------------------------------------------------- | :------------------------------------------------------- | :--- | :----------------------------------------------------------- |
-| 名称                                 | bilibili                                                  | youtube                                                  | 点评 | 相关视频                                                     |
-| 星穹铁道最浪漫的支线，没有之一！！！ | [链接/Link](https://www.bilibili.com/video/BV1wT411t7HA/) | [链接/Link](https://www.youtube.com/watch?v=97O6aeQkJvs) |      |                                                              |
-| 就饶了小女子吧                       | [链接/Link](https://www.bilibili.com/video/BV1Ks4y1R7cP/) |                                                          |      | [不要叫恩公 叫相公！](https://www.bilibili.com/video/BV1GP41117td/) \| [停云姐姐这么做，一定有她的大道理](https://www.bilibili.com/video/BV1Zo4y1s7sH/) |
-| 脑瓜不太好的样子                     | [链接/Link](https://www.bilibili.com/video/BV1ez4y1c7oa/) |                                                          |      | [《文化沙漠组》](https://www.bilibili.com/video/BV1Gu4y1b76B/) |
+|                                      |                                                           |                                                          |                                                              |
+| :----------------------------------- | :-------------------------------------------------------- | :------------------------------------------------------- | :----------------------------------------------------------- |
+| 名称                                 | bilibili                                                  | youtube                                                  | 相关视频                                                     |
+| 星穹铁道最浪漫的支线，没有之一！！！ | [链接/Link](https://www.bilibili.com/video/BV1wT411t7HA/) | [链接/Link](https://www.youtube.com/watch?v=97O6aeQkJvs) |                                                              |
+| 就饶了小女子吧                       | [链接/Link](https://www.bilibili.com/video/BV1Ks4y1R7cP/) |                                                          | [不要叫恩公 叫相公！](https://www.bilibili.com/video/BV1GP41117td/) \| [停云姐姐这么做，一定有她的大道理](https://www.bilibili.com/video/BV1Zo4y1s7sH/) |
+| 脑瓜不太好的样子                     | [链接/Link](https://www.bilibili.com/video/BV1ez4y1c7oa/) |                                                          | [《文化沙漠组》](https://www.bilibili.com/video/BV1Gu4y1b76B/) |
+| 用仙剑三的方式打开《崩坏：星穹铁道》 | [链接/Link](https://www.bilibili.com/video/BV1Cs4y1c7YR/) |                                                          |                                                              |
 
 
 
