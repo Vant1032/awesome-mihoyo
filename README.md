@@ -316,20 +316,21 @@
 
 ### 国外 English
 
-| 名称             | bilibili                                                 | youtube                                               |
-| ---------------- | -------------------------------------------------------- | ----------------------------------------------------- |
-| No_Tables        | [链接/Link](https://space.bilibili.com/1220617185)       | [链接/Link](https://www.youtube.com/@no_tables)       |
-| KKOMDA           | [链接/Link](https://space.bilibili.com/1740827542)       | [链接/Link](https://www.youtube.com/@KKOMDASTRO)      |
-| RiceWhale        |                                                          | [链接/Link](https://www.youtube.com/@RiceWhaleYT)     |
-| Monolithia       | [链接/Link](https://space.bilibili.com/1472374760)       | [链接/Link](https://www.youtube.com/@Monolithia/)     |
-| Rawfler          | [链接/Link](https://space.bilibili.com/1949261988)       | [链接/Link](https://www.youtube.com/@Rawfler)         |
-| CelinePizza      | [链接/Link](https://space.bilibili.com/439145835)        | [链接/Link](https://www.youtube.com/@celinepizza2263) |
-| Zy0x             |                                                          | [链接/Link](https://www.youtube.com/@Zy0x)            |
-| ON Game          |                                                          | [链接/Link](https://www.youtube.com/@ongamech)        |
-| Reizo_Animations | [链接/Link](https://space.bilibili.com/3546566539348545) | [链接/Link](https://www.youtube.com/@Reizo.Genshin)   |
-| Flasso           |                                                          | [链接/Link](https://www.youtube.com/@Flasso/videos)   |
-| m1s3n            | [链接/Link](https://space.bilibili.com/1989413009/video) | [链接/Link](https://www.youtube.com/@m1s3n/videos)    |
-| きゆう           |                                                          | [链接/Link](https://www.youtube.com/@kiyu623/videos)  |
+| 名称             | bilibili                                                     | youtube                                                |
+| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
+| No_Tables        | [链接/Link](https://space.bilibili.com/1220617185)           | [链接/Link](https://www.youtube.com/@no_tables)        |
+| KKOMDA           | [链接/Link](https://space.bilibili.com/1740827542)           | [链接/Link](https://www.youtube.com/@KKOMDASTRO)       |
+| RiceWhale        |                                                              | [链接/Link](https://www.youtube.com/@RiceWhaleYT)      |
+| Monolithia       | [链接/Link](https://space.bilibili.com/1472374760)           | [链接/Link](https://www.youtube.com/@Monolithia/)      |
+| Rawfler          | [链接/Link](https://space.bilibili.com/1949261988)           | [链接/Link](https://www.youtube.com/@Rawfler)          |
+| CelinePizza      | [链接/Link](https://space.bilibili.com/439145835)            | [链接/Link](https://www.youtube.com/@celinepizza2263)  |
+| Zy0x             |                                                              | [链接/Link](https://www.youtube.com/@Zy0x)             |
+| ON Game          |                                                              | [链接/Link](https://www.youtube.com/@ongamech)         |
+| Reizo_Animations | [链接/Link](https://space.bilibili.com/3546566539348545)     | [链接/Link](https://www.youtube.com/@Reizo.Genshin)    |
+| Nagomi_ANI       | [链接/Link](https://space.bilibili.com/3546614371190863/video) | [链接/Link](https://www.youtube.com/@NagomiAni/videos) |
+| Flasso           |                                                              | [链接/Link](https://www.youtube.com/@Flasso/videos)    |
+| m1s3n            | [链接/Link](https://space.bilibili.com/1989413009/video)     | [链接/Link](https://www.youtube.com/@m1s3n/videos)     |
+| きゆう           |                                                              | [链接/Link](https://www.youtube.com/@kiyu623/videos)   |
 
 
 
