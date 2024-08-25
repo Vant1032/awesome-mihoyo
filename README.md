@@ -29,18 +29,17 @@
 
 [原神二创月刊-合集](https://space.bilibili.com/394416628/channel/collectiondetail?sid=228859) 是观察原神在B站二创情况的一个视频合集，每月汇总二创情况。
 
-## 官方音乐会 Official music concert
+## 官方音乐会 Official concert
 
-| 名称                                        | 链接                                        |
-| ------------------------------------------- | ------------------------------------------- |
-| 《原神》线上音乐会2021———「无际之旅的旋律」 | [链接/Link](https://www.bilibili.com/video/BV1E44y1t7Kn) |
-| 寂远无妄之国：《原神》稻妻交响音乐现场      | [链接/Link](https://www.bilibili.com/video/BV1Cy4y1V7J6) |
-| 《原神》交响音乐会特别篇-「映春华章」       | [链接/Link](https://www.bilibili.com/video/BV1TY411L7ZD) |
-| 《原神》须弥交响音乐现场                    | [链接/Link](https://www.bilibili.com/video/BV1GU4y1C7yu) |
-| 《原神》线上音乐会2022 - 无际之旅的旋律     | [链接/Link](https://www.bilibili.com/video/BV14e411j7Fv) |
-| 《原神》线上音乐会2023 - 无际之旅的旋律     | [链接/Link](https://www.bilibili.com/video/BV1ZN4y1x74v) |
-| 《原神交响音乐会2023》上海场官方录播完整版  | [链接/Link](https://www.bilibili.com/video/BV1Rj411p7b1) |
-|                                             |                                             |
+| 名称                                        | 日期       | bilibili                                                 | Youtube                                                  |
+| ------------------------------------------- | ---------- | -------------------------------------------------------- | -------------------------------------------------------- |
+| 《原神》线上音乐会2021———「无际之旅的旋律」 | 2021-10-04 | [链接/Link](https://www.bilibili.com/video/BV1E44y1t7Kn) | [链接/Link](https://www.youtube.com/watch?v=UIam8zl4af8) |
+| 寂远无妄之国：《原神》稻妻交响音乐现场      | 2021-08-21 | [链接/Link](https://www.bilibili.com/video/BV1Cy4y1V7J6) | [链接/Link](https://www.youtube.com/watch?v=e4bptIoZFDE) |
+| 《原神》交响音乐会特别篇-「映春华章」       | 2022-02-04 | [链接/Link](https://www.bilibili.com/video/BV1TY411L7ZD) | [链接/Link](https://www.youtube.com/watch?v=8svl0sQXDLI) |
+| 《原神》须弥交响音乐现场                    | 2022-08-14 | [链接/Link](https://www.bilibili.com/video/BV1GU4y1C7yu) | [链接/Link](https://www.youtube.com/watch?v=VrP3lO3aGDg) |
+| 《原神》线上音乐会2022 - 无际之旅的旋律     | 2022-10-02 | [链接/Link](https://www.bilibili.com/video/BV14e411j7Fv) | [链接/Link](https://www.youtube.com/watch?v=LrqsaO9Cf2M) |
+| 《原神交响音乐会2023》上海场官方录播完整版  | 2023-12-16 | [链接/Link](https://www.bilibili.com/video/BV1Rj411p7b1) | [链接/Link](https://www.youtube.com/watch?v=RgcOQo-Ty_I) |
+| 《原神》线上音乐会2023 - 无际之旅的旋律     | 2023-12-22 | [链接/Link](https://www.bilibili.com/video/BV1ZN4y1x74v) | [链接/Link](https://www.youtube.com/watch?v=SC57e3VB_ZQ) |
 
 音乐MV
 
