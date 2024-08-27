@@ -65,6 +65,11 @@
 |---|-------------|
 | 原梦冒险团-蜀中行 | [链接/Link](https://www.bilibili.com/video/BV19e411o7rY) |
 
+其它 Other
+
+| 名称                          | 链接                                                      |
+| ----------------------------- | --------------------------------------------------------- |
+| 哔哩哔哩原神UP主邀请赛 宣传片 | [链接/Link](https://www.bilibili.com/video/BV1xP4y1j7hh/) |
 
 ## 同人歌曲 Fan-made music
 
@@ -282,6 +287,7 @@
 | 小团雀原神       | [链接/Link](https://space.bilibili.com/1886622622)       |                                                              |                                                             |
 | 伊零Onezero      | [链接/Link](https://space.bilibili.com/293753863)        | [链接/Link](https://v.douyin.com/i2AxPPYU/)                  |                                                             |
 | 屑老板XBOSS      | [链接/Link](https://space.bilibili.com/18614623)         | [链接/Link](https://v.douyin.com/i2AxtQFr/)                  |                                                             |
+| 罐罐小狗         | [链接/Link](https://space.bilibili.com/1910004/video)    | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAANu4-pbbrMxfMxDPT0FM_RggbqpYOKsX0MK6ea9Uf3aCBswfP1GN1hoAdZe-HUspz) |                                                             |
 | 越弟             | [链接/Link](https://space.bilibili.com/341704094)        | [链接/Link](https://v.douyin.com/i2AV2Fxv/)                  |                                                             |
 | 死桔子           | [链接/Link](https://space.bilibili.com/23197979)         | [链接/Link](https://v.douyin.com/i2AgNYhG/)                  | [链接/Link](https://www.youtube.com/@user-dd6bs3ch4d)       |
 | 神帝宇           | [链接/Link](https://space.bilibili.com/7767105)          |                                                              |                                                             |
@@ -301,6 +307,7 @@
 | 陪君柳下走       | [链接/Link](https://space.bilibili.com/7970760)          | [链接/Link](https://v.douyin.com/i2Av6e92/)                  |                                                             |
 | Happy_Twins      | [链接/Link](https://space.bilibili.com/405845641)        | [链接/Link](https://v.douyin.com/iMhaXQ6A/)                  |                                                             |
 | 旋风博文         | [链接/Link](https://space.bilibili.com/11912132)         | [链接/Link](https://v.douyin.com/iMhmacSP/)                  |                                                             |
+| 鲜洋芋           | [链接/Link](https://space.bilibili.com/2468984/video)    | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAA7OxnKpEbIUOz1VgpvCxoTx9XSHoBGsn5JZPNUBlOEDAVQ7CS_o2NnMXA8XeiYIm7) |                                                             |
 | 龙虾ゞ           | [链接/Link](https://space.bilibili.com/298254767/video)  | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAGVpj7wLsvipIRyuI7BQMZclsARJ83Fd0Q9bpufvR_cA) |                                                             |
 | ulu秋名山        | [链接/Link](https://space.bilibili.com/351170066/video)  | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAADd1gBnapeZmyC_5yilICFu91dPmohrygkTaOpJfgdE4hX_uUo6vetFeve3RagZeS) | [链接/Link](https://www.youtube.com/@UluQiuMingShan/videos) |
 | -阿洋Yoko-       | [链接/Link](https://space.bilibili.com/282960675/video)  | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAADwob-OX-sNnRMPcpIg8uehVouJ7waxmK-KCxQtyu289MNWMdNxsM82bfQEiTSQOQ) | [链接/Link](https://www.youtube.com/@-yoko-8658/videos)     |
@@ -312,6 +319,8 @@
 | 是安澜YA         | [链接/Link](https://space.bilibili.com/73646893/video)   | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAvK-m7b1ojF_IIOPtkOyZAq9qpdWrV5DZE6nLOtW-SQQ) |                                                             |
 | RK贝今天也很快乐 | [链接/Link](https://space.bilibili.com/37654020/video)   | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAd6y8p2yHUNWdxA8WuI3m5VfG4Fhn9k88Msn8M5CX71StMJZzSOhNEZ-yKaXTrIhp) | [链接/Link](https://www.youtube.com/@RKBei/videos)          |
 | 姬海棠羽笠果     | [链接/Link](https://space.bilibili.com/1529788/video)    | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAXQeX6KjihKiMoGmwFi5x_Yj6nf7RJIk4VbPD9sXBqLM6AFP7v3Md5IeaMmKtWuGB) |                                                             |
+| 阿鱼Au_lishan    | [链接/Link](https://space.bilibili.com/44627045/video)   | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAV29OB2hZHwT2FcbbwJQorLC8Ppl77_T6PMNbCgZwpptRfz5vOHLNB-A5yy5yeZjj) |                                                             |
+| 许里xurry        | [链接/Link](https://space.bilibili.com/64017998/video)   | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAfUGhpCvKX7QBiDZ4WjaG6PAXnQA6PPaT6xC9uagZPXc) |                                                             |
 
 ### 国外 English
 
@@ -469,8 +478,14 @@
 | 全网首发！谁拥有最美丝袜？米兰服装设计师的原神全女性人物腿饰解密！ | [链接/Link](https://www.bilibili.com/video/BV1oi4y1Q7B6)     |                                                          | 服装赏析                                   | [服装设计师看原神角色衣服的反应！网络热门服装鉴定【37】原神](https://www.bilibili.com/video/BV1ht4y1R7G9) |
 | 版本节奏史                                                   | [链接/Link](https://space.bilibili.com/1903716905/channel/collectiondetail?sid=541588) |                                                          | 原神社区节奏历史                           | [（开服被水军黑古战场）全网首曝！米哈游新作《原神》游戏内容抢先曝光！](https://www.bilibili.com/video/BV13441137qo) \| [【原神冷知识】你知道开服至今原神所经历的重大节奏事件吗？](https://www.bilibili.com/video/BV13p4y1N7re/) |
 | 原神全五星角色微电影                                         | [链接/Link](https://www.bilibili.com/video/BV1A1421873u/)    |                                                          | 微电影                                     |                                                              |
+| 【原神手书】♛来自四神的压迫力♛～王牌特工们的「间谍过家家」～ | [链接/Link](https://www.bilibili.com/video/BV1Tv4y1b73i/)    |                                                          | 手书                                       | [【原神手书】我家有个龙王大人❗❓](https://www.bilibili.com/video/BV1WS42197nw/) \| [同人动画：请不要那么随意地喜欢我~｜芙宁娜｜](https://www.bilibili.com/video/BV1Cw411H7KT/) |
+| 鹤观剧情做的真不错，但下次别做了 《海底》                    | [链接/Link](https://www.bilibili.com/video/BV1YL41137G3/)    |                                                          | 剧情&歌曲                                  |                                                              |
+| 我们提瓦特也是学会唱跳rap了                                  | [链接/Link](https://www.bilibili.com/video/BV1hE421T7PD/)    |                                                          | MMD&Rap                                    | [【胡桃x芙宁娜x雷神x神子】日不落](https://www.bilibili.com/video/BV1XH4y1G7Da/) |
 | 【才浅手工】真实还是特效？原神雷电将军武器极致还原           | [链接/Link](https://www.bilibili.com/video/BV1rh411W7nH)     |                                                          | 复刻道具                                   | [腐殖之剑，原神的美术有多强？做成实物后美爆了！](https://www.bilibili.com/video/BV1Pi4y1w7Vb) \| [【原神】去蒙德城找Hacksmith，让他为你打造一把“天空之翼”](https://www.bilibili.com/video/BV1W44y1q7vF) \| [原神 至冬工造仿和璞鸢系列武器展示：代号GSVA001-003](https://www.bilibili.com/video/BV1bp4y1H79M) \| [【原神】神里绫人专武波乱月白经津，发光武器还原](https://www.bilibili.com/video/BV19F411u7L8) |
+| 给芙芙抽了个爹                                               | [链接/Link](https://www.bilibili.com/video/BV15S411c77A/)    |                                                          | 人物带到现实                               |                                                              |
 | 你把戒指吃下去了啊？...唔？！                                | [链接/Link](https://www.bilibili.com/video/BV1Kt421u7mJ)     |                                                          | 超甜的爱情                                 | [Youtube版](https://www.youtube.com/watch?v=9st-zZZ5bgo)     |
+| 野怪大伟丘不会梦到璃月海灯节                                 | [链接/Link](https://www.bilibili.com/video/BV1Dz4y1m7bL/)    |                                                          | 现实还原游戏                               | [真实的璃月终于被我们还原了](https://www.bilibili.com/video/BV116421f7rM/) \| [【原神】年度最强COS短片 跨越尘世的冒险之旅](https://www.bilibili.com/video/BV1Xy4y1m7eH/) \| [【原神】真人COS短片续作 海上升明霄](https://www.bilibili.com/video/BV1gy4y1Y7zc/) |
+| 过家家游戏到此为止                                           | [链接/Link](https://www.bilibili.com/video/BV16T421C7Ry/)    |                                                          | 真实向建模                                 | [握紧长剑之时，我代表的是枫丹的律法与规则](https://www.bilibili.com/video/BV1T7421d7Z9/) \| [予我辉光！](https://www.bilibili.com/video/BV17Z421K7Rf/) \| [三眼五显仙人，魈，听召而来](https://www.bilibili.com/video/BV1Qj421S7oA/) |
 
 ## 百科 Wiki
 
@@ -500,11 +515,12 @@
 
 购票方式：[B站-会员购](https://show.bilibili.com/platform/home.html)
 
-| 名称           | 日期               | 相关内容                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| -------------- | ------------------ |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| miYoSummer2022 | 2022/01/15 - 01/16 | [【一秒沦陷】miYoSummer·珊瑚宫心海](https://www.bilibili.com/video/BV1V34y1q7iv)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| miYoSummer2023 | 2023/06/22 - 06/23 | [【miYoSummer】来自大伟哥的寄语VCR](https://www.bilibili.com/video/BV1wF411i7hz)  \| [【miYoSummer】PV公开｜欢迎来到X-City！](https://www.bilibili.com/video/BV1fG4y1r7oD) \|  [「miYoSummer 2nd」全场回顾！](https://www.bilibili.com/video/BV1zp4y157E3) \| [挑战在miYoSummer和一百位coser比心合照！](https://www.bilibili.com/video/BV1sj411S7og) \| [miYoSummer 2nd舞台活动精彩合辑](https://www.bilibili.com/video/BV1Gu41187J2)                                                                                                                                                                                          |
+| 名称           | 日期               | 相关内容                                                     |
+| -------------- | ------------------ | ------------------------------------------------------------ |
+| miYoSummer2022 | 2022/01/15 - 01/16 | [【一秒沦陷】miYoSummer·珊瑚宫心海](https://www.bilibili.com/video/BV1V34y1q7iv) |
+| miYoSummer2023 | 2023/06/22 - 06/23 | [【miYoSummer】来自大伟哥的寄语VCR](https://www.bilibili.com/video/BV1wF411i7hz)  \| [【miYoSummer】PV公开｜欢迎来到X-City！](https://www.bilibili.com/video/BV1fG4y1r7oD) \|  [「miYoSummer 2nd」全场回顾！](https://www.bilibili.com/video/BV1zp4y157E3) \| [挑战在miYoSummer和一百位coser比心合照！](https://www.bilibili.com/video/BV1sj411S7og) \| [miYoSummer 2nd舞台活动精彩合辑](https://www.bilibili.com/video/BV1Gu41187J2) |
 | 原神Fes2023    | 2023/08-10 - 08/13 | [原神☆FES 活动PV](https://www.bilibili.com/video/BV1W8411D7J3) \| [「原神☆FES」回顾视频](https://www.bilibili.com/video/BV1y94y1k7d3) \| [「原神☆FES」8月13日官方舞台直播回顾](https://www.bilibili.com/video/BV1Ju4y1q7Zy) \| [一口气逛完原神FES2023-白鸟](https://www.bilibili.com/video/BV18h4y1Q7BR) \| [原神fes2023 8月11日声优见面会](https://www.bilibili.com/video/BV1Wj41167ST) \| [原神Fes-B站话题](https://www.bilibili.com/v/topic/detail/?topic_id=1084450) \| [【都市重构】miYoSummer2nd·米游姬们](https://www.bilibili.com/video/BV1pX4y1s7Qc) \| [一镜到底带你逛逛miYoSummer 2nd](https://www.bilibili.com/video/BV1Jj411Q7y8) \| [4K超清：十四分钟逛遍原神Fes2023](https://www.bilibili.com/video/BV1JN41187Ri) |
+| 原神Fes2024    | 2024/08-15 - 08/18 | [「原神☆FES」2024回顾视频](https://www.bilibili.com/video/BV15H4y1F7dn/) \| [花铃&kinsen&喵酱合唱《让风告诉你》](https://www.douyin.com/video/7406190212306537766) \| [多多&花铃合唱《我不曾忘记》](https://www.douyin.com/video/7406191883153591590) \| [8月15日主舞台直播回顾](https://www.bilibili.com/video/BV1vU411m7io/) \| [8月16日主舞台直播回顾](https://www.bilibili.com/video/BV13z421q79a/) \| [8月17日主舞台直播回顾](https://www.bilibili.com/video/BV1hy411v7TN/) \| [8月18日主舞台直播回顾](https://www.bilibili.com/video/BV14i421r7Pa/) \| [【原神fes】全想起来了，旅行的意义！史上最大阵容cos](https://www.bilibili.com/video/BV1Wwp1eUEJY/) |
 
 
 

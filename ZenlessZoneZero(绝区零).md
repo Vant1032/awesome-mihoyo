@@ -19,6 +19,7 @@
 |帷幕VMovie | [链接/Link](https://space.bilibili.com/2169841/video) | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAOC-pZapAUjBUyZpnKO8-8R-1A0ZM_-kABgpa2Aju2-V_IJlptqyqzYgmVVrVKuMj) |[链接/Link](https://www.youtube.com/@VMovie-CN/videos)|
 |RK贝今天也很快乐 | [链接/Link](https://space.bilibili.com/37654020/video) | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAd6y8p2yHUNWdxA8WuI3m5VfG4Fhn9k88Msn8M5CX71StMJZzSOhNEZ-yKaXTrIhp) |[链接/Link](https://www.youtube.com/@RKBei/videos)|
 |姬海棠羽笠果 | [链接/Link](https://space.bilibili.com/1529788/video) | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAXQeX6KjihKiMoGmwFi5x_Yj6nf7RJIk4VbPD9sXBqLM6AFP7v3Md5IeaMmKtWuGB) ||
+|阿鱼Au_lishan | [链接/Link](https://space.bilibili.com/44627045/video) | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAV29OB2hZHwT2FcbbwJQorLC8Ppl77_T6PMNbCgZwpptRfz5vOHLNB-A5yy5yeZjj) ||
 
 ## 有影响力的同人作品 Influential fan works
 

@@ -29,11 +29,12 @@ MV
 
 ### 中国 Chinese
 
-| 名称                     | 日期       | bilibili                                                 | youtube                                               |
-| ------------------------ | ---------- | -------------------------------------------------------- |-------------------------------------------------------|
-| 星穹夏日联欢盛典         | 2023-08-05 | [链接/Link](https://www.bilibili.com/video/BV1s44y1w7Ad) |                                                       |
-| 2024崩坏：星穹铁道新春会 | 2024-02-04 | [链接/Link](https://www.bilibili.com/video/BV1a7421K7ex) | [链接/Link](https://www.youtube.com/watch?v=KPd8iVjBlIQ) |
-| 2024星穹铁道生日会       | 2024-04-27 | [链接/Link](https://www.bilibili.com/video/BV19D421J7dW) |                                                       |
+| 名称                     | 日期       | bilibili                                                     | youtube                                                  |
+| ------------------------ | ---------- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| 2023星穹夏日联欢盛典     | 2023-08-05 | [链接/Link](https://www.bilibili.com/video/BV1s44y1w7Ad)     |                                                          |
+| 2024崩坏：星穹铁道新春会 | 2024-02-04 | [链接/Link](https://www.bilibili.com/video/BV1a7421K7ex)     | [链接/Link](https://www.youtube.com/watch?v=KPd8iVjBlIQ) |
+| 2024星穹铁道生日会       | 2024-04-27 | [链接/Link](https://www.bilibili.com/video/BV19D421J7dW)     |                                                          |
+| 2024星穹夏日联欢盛典     | 2024-08-24 | [链接/Link](https://www.bilibili.com/festival/xqtd2?bvid=BV1Xz421e7m6) |                                                          |
 
 ### 外国 English
 
@@ -100,6 +101,7 @@ MV
 | 帷幕VMovie | [链接/Link](https://space.bilibili.com/2169841/video) | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAOC-pZapAUjBUyZpnKO8-8R-1A0ZM_-kABgpa2Aju2-V_IJlptqyqzYgmVVrVKuMj) | [链接/Link](https://www.youtube.com/@VMovie-CN/videos) |
 | RK贝今天也很快乐 | [链接/Link](https://space.bilibili.com/37654020/video) | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAd6y8p2yHUNWdxA8WuI3m5VfG4Fhn9k88Msn8M5CX71StMJZzSOhNEZ-yKaXTrIhp) | [链接/Link](https://www.youtube.com/@RKBei/videos) |
 | 呵纹Hevon | [链接/Link](https://space.bilibili.com/13167438/video) | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAXD7GnawtXKEZHp_qmfBlCfRXekFILARox111IemRhgI) | [链接/Link](https://www.youtube.com/@hevon2333/videos) |
+| 阿鱼Au_lishan | [链接/Link](https://space.bilibili.com/44627045/video) | [链接/Link](https://www.douyin.com/user/MS4wLjABAAAAV29OB2hZHwT2FcbbwJQorLC8Ppl77_T6PMNbCgZwpptRfz5vOHLNB-A5yy5yeZjj) |  |
 
 ### 国外 English
 
@@ -126,15 +128,22 @@ MV
 
 有太多太多优秀的作品，我只能挑出其中一部分，光是播放量破百万的作品就极其极其多。
 
-|                                      |                                                           |                                                          |                                                              |
-| :----------------------------------- | :-------------------------------------------------------- | :------------------------------------------------------- | :----------------------------------------------------------- |
 | 名称                                 | bilibili                                                  | youtube                                                  | 相关视频                                                     |
+| :----------------------------------- | :-------------------------------------------------------- | :------------------------------------------------------- | :----------------------------------------------------------- |
 | 星穹铁道最浪漫的支线，没有之一！！！ | [链接/Link](https://www.bilibili.com/video/BV1wT411t7HA/) | [链接/Link](https://www.youtube.com/watch?v=97O6aeQkJvs) |                                                              |
 | 就饶了小女子吧                       | [链接/Link](https://www.bilibili.com/video/BV1Ks4y1R7cP/) |                                                          | [不要叫恩公 叫相公！](https://www.bilibili.com/video/BV1GP41117td/) \| [停云姐姐这么做，一定有她的大道理](https://www.bilibili.com/video/BV1Zo4y1s7sH/) |
 | 脑瓜不太好的样子                     | [链接/Link](https://www.bilibili.com/video/BV1ez4y1c7oa/) |                                                          | [《文化沙漠组》](https://www.bilibili.com/video/BV1Gu4y1b76B/) |
 | 用仙剑三的方式打开《崩坏：星穹铁道》 | [链接/Link](https://www.bilibili.com/video/BV1Cs4y1c7YR/) |                                                          |                                                              |
 
 
+
+### 线下活动 Offline event
+
+购票方式：[B站-会员购](https://show.bilibili.com/platform/home.html)
+
+| 名称                                                         | 日期                    | 相关内容                                                     |
+| ------------------------------------------------------------ | ----------------------- | ------------------------------------------------------------ |
+| [2024星穹铁道嘉年华-星铁Land](https://act.mihoyo.com/puzzle/hkrpg/pz_IGTUvZSn2l/index.html) | 2024-05-02 - 2024-05-04 | [2024星穹铁道嘉年华直播回放](https://www.bilibili.com/video/BV1hM4m1o7Fy/) \| [天呐！这是我最喜欢的一集【星铁Land大全员】](https://www.bilibili.com/video/BV1mr421E7RW/) \| [【星铁嘉年华】全员COSER大升格！进来认领角色卡！](https://www.bilibili.com/video/BV1pH4y1G7TZ/) \| [在星铁嘉年华上随机问答有多离谱？！](https://www.bilibili.com/video/BV1LE421L71M/) \| [《崩坏：星穹铁道》「2024星铁LIVE」演唱会官方录播完整版](https://www.bilibili.com/video/BV1ZH4y1V7AE/) |
 
 
 
