@@ -97,20 +97,21 @@
 
 ### 中国 Chinese
 
-| 名称                                   | 日期       | bilibili                                                 | youtube                                                  |
-| -------------------------------------- | ---------- | -------------------------------------------------------- | -------------------------------------------------------- |
-| 2021年原神拜年纪                       | 2021-02-06 | [链接/Link](https://www.bilibili.com/video/BV1FV411i7ok) | [链接/Link](https://www.youtube.com/watch?v=p2wKKL8jFMw) |
-| 2021年「原神生日会」                   | 2021-09-25 | [链接/Link](https://www.bilibili.com/video/BV1df4y1w7Z1) | [链接/Link](https://www.youtube.com/watch?v=t1l-7tmFWmA) |
-| 2022原神新春会                         | 2022-01-21 | [链接/Link](https://www.bilibili.com/video/BV1sT4y127SN) | [链接/Link](https://www.youtube.com/watch?v=Kbcu7V2pDLo) |
-| 2022原神拜年纪                         | 2022-01-29 | [链接/Link](https://www.bilibili.com/video/BV1uP4y1N7cq) | [链接/Link](https://www.youtube.com/watch?v=_Wr8MfbzbDY) |
-| 2022年「原神生日会」                   | 2022-09-23 | [链接/Link](https://www.bilibili.com/video/BV1ZP411J7vN) | [链接/Link](https://www.youtube.com/watch?v=wMVu96XpEok) |
-| 2022「夏日回响」原神同人二创音乐会     | 2022-09-24 | [链接/Link](https://www.bilibili.com/video/BV1q841147KM) | [链接/Link](https://www.youtube.com/watch?v=2EOBHYeVsFc) |
-| 2023年「原神新春会」                   | 2023-01-20 | [链接/Link](https://www.bilibili.com/video/BV1mT41117vu) | [链接/Link](https://www.youtube.com/watch?v=13Mt_X_AROo) |
-| 2023原神「夏日回响」二创音乐会         | 2023-11-17 | [链接/Link](https://www.bilibili.com/video/BV1cb4y137M4) | [链接/Link](https://www.youtube.com/watch?v=r0o8ePd6j28) |
-| 2023年「原神生日会」                   | 2023-09-29 | [链接/Link](https://www.bilibili.com/video/BV1VH4y1U797) | [链接/Link](https://www.youtube.com/watch?v=Nnb8lI1j1Gg) |
-| 2023年原神三周年二创音乐会《星渊奏章》 | 2023-10-05 | [链接/Link](https://www.bilibili.com/video/BV1tu4y1x771) |                                                          |
-| 2024年「原神新春会」                   | 2024-02-02 | [链接/Link](https://www.bilibili.com/video/BV1sK42117Bn) | [链接/Link](https://www.youtube.com/watch?v=wolrUBiZhZU) |
-| 2024年「原神生日会」                   | 2024-09-16 | [链接/Link](https://www.bilibili.com/video/BV1HE4depEtz) | [链接/Link](https://www.youtube.com/watch?v=jqUd5BWG2jY) |
+| 名称                                   | 日期       | bilibili                                                     | youtube                                                  |
+| -------------------------------------- | ---------- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| 2021年原神拜年纪                       | 2021-02-06 | [链接/Link](https://www.bilibili.com/video/BV1FV411i7ok)     | [链接/Link](https://www.youtube.com/watch?v=p2wKKL8jFMw) |
+| 2021年「原神生日会」                   | 2021-09-25 | [链接/Link](https://www.bilibili.com/video/BV1df4y1w7Z1)     | [链接/Link](https://www.youtube.com/watch?v=t1l-7tmFWmA) |
+| 2022原神新春会                         | 2022-01-21 | [链接/Link](https://www.bilibili.com/video/BV1sT4y127SN)     | [链接/Link](https://www.youtube.com/watch?v=Kbcu7V2pDLo) |
+| 2022原神拜年纪                         | 2022-01-29 | [链接/Link](https://www.bilibili.com/video/BV1uP4y1N7cq)     | [链接/Link](https://www.youtube.com/watch?v=_Wr8MfbzbDY) |
+| 2022原神夏日放映节                     | 2022-06-17 | [链接/Link](https://www.bilibili.com/blackboard/activity-U1ojUI3jTm.html) |                                                          |
+| 2022年「原神生日会」                   | 2022-09-23 | [链接/Link](https://www.bilibili.com/video/BV1ZP411J7vN)     | [链接/Link](https://www.youtube.com/watch?v=wMVu96XpEok) |
+| 2022「夏日回响」原神同人二创音乐会     | 2022-09-24 | [链接/Link](https://www.bilibili.com/video/BV1q841147KM)     | [链接/Link](https://www.youtube.com/watch?v=2EOBHYeVsFc) |
+| 2023年「原神新春会」                   | 2023-01-20 | [链接/Link](https://www.bilibili.com/video/BV1mT41117vu)     | [链接/Link](https://www.youtube.com/watch?v=13Mt_X_AROo) |
+| 2023原神「夏日回响」二创音乐会         | 2023-11-17 | [链接/Link](https://www.bilibili.com/video/BV1cb4y137M4)     | [链接/Link](https://www.youtube.com/watch?v=r0o8ePd6j28) |
+| 2023年「原神生日会」                   | 2023-09-29 | [链接/Link](https://www.bilibili.com/video/BV1VH4y1U797)     | [链接/Link](https://www.youtube.com/watch?v=Nnb8lI1j1Gg) |
+| 2023年原神三周年二创音乐会《星渊奏章》 | 2023-10-05 | [链接/Link](https://www.bilibili.com/video/BV1tu4y1x771)     |                                                          |
+| 2024年「原神新春会」                   | 2024-02-02 | [链接/Link](https://www.bilibili.com/video/BV1sK42117Bn)     | [链接/Link](https://www.youtube.com/watch?v=wolrUBiZhZU) |
+| 2024年「原神生日会」                   | 2024-09-16 | [链接/Link](https://www.bilibili.com/video/BV1HE4depEtz)     | [链接/Link](https://www.youtube.com/watch?v=jqUd5BWG2jY) |
 
 ### 外国 English
 
