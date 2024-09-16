@@ -407,17 +407,18 @@
 
 ## 原神考据 Genshin Impact lore research
 
-| 名称        | bilibili                              | 相关视频                                                     |
-| ----------- | ------------------------------------- | ------------------------------------------------------------ |
-| Muc虚空之翼 | [链接/Link](https://space.bilibili.com/14546601)   | [文化考据-钟离](https://www.bilibili.com/video/BV1uQ4y1f7g9) |
-| 星月银      | [链接/Link](https://space.bilibili.com/519297)     | [原神编年史](https://www.bilibili.com/video/BV1TA411V7Ek)    |
-| 四维告白    | [链接/Link](https://space.bilibili.com/507811753/) | [原神编年史专题](https://www.bilibili.com/video/BV1Ak4y1v73k) |
-| 轻如晨曦    | [链接/Link](https://space.bilibili.com/5863642)    | [原神年代记](https://www.bilibili.com/video/BV1LY411A7ZU)    |
-| 骚橙丶      | [链接/Link](https://space.bilibili.com/1876542)    | [原神外传](https://www.bilibili.com/video/BV1po4y1Z7Py)      |
-| 无相之鸽    | [链接/Link](https://space.bilibili.com/1925311793) | [原神史册](https://www.bilibili.com/video/BV1454y1C7vF)      |
-| 醋里有毒    | [链接/Link](https://space.bilibili.com/2504718)    | [原神剧情挖掘机](https://space.bilibili.com/2504718/channel/seriesdetail?sid=562486) |
-| 宏观概念    | [链接/Link](https://space.bilibili.com/246712587)  | [原神考据](https://www.bilibili.com/video/BV1zL4y1b76V)      |
-| 雪之仓鼠樱  | [链接/Link](https://space.bilibili.com/364420552)  | [原神剧情编剧向解析](https://www.bilibili.com/video/BV1eA411z76T) |
+| 名称        | bilibili                                               | 相关视频                                                     |
+| ----------- | ------------------------------------------------------ | ------------------------------------------------------------ |
+| Muc虚空之翼 | [链接/Link](https://space.bilibili.com/14546601)       | [文化考据-钟离](https://www.bilibili.com/video/BV1uQ4y1f7g9) |
+| 星月银      | [链接/Link](https://space.bilibili.com/519297)         | [原神编年史](https://www.bilibili.com/video/BV1TA411V7Ek)    |
+| 四维告白    | [链接/Link](https://space.bilibili.com/507811753/)     | [原神编年史专题](https://www.bilibili.com/video/BV1Ak4y1v73k) |
+| 轻如晨曦    | [链接/Link](https://space.bilibili.com/5863642)        | [原神年代记](https://www.bilibili.com/video/BV1LY411A7ZU)    |
+| 骚橙丶      | [链接/Link](https://space.bilibili.com/1876542)        | [原神外传](https://www.bilibili.com/video/BV1po4y1Z7Py)      |
+| 无相之鸽    | [链接/Link](https://space.bilibili.com/1925311793)     | [原神史册](https://www.bilibili.com/video/BV1454y1C7vF)      |
+| 醋里有毒    | [链接/Link](https://space.bilibili.com/2504718)        | [原神剧情挖掘机](https://space.bilibili.com/2504718/channel/seriesdetail?sid=562486) |
+| 宏观概念    | [链接/Link](https://space.bilibili.com/246712587)      | [原神考据](https://www.bilibili.com/video/BV1zL4y1b76V)      |
+| 雪之仓鼠樱  | [链接/Link](https://space.bilibili.com/364420552)      | [原神剧情编剧向解析](https://www.bilibili.com/video/BV1eA411z76T) |
+| 某蛋w       | [链接/Link](https://space.bilibili.com/20052357/video) | [深挖温迪与派蒙的故事原型！时与风任务背后究竟有什么秘密？](https://www.bilibili.com/video/BV1eU4y1g734/) |
 
 
 
