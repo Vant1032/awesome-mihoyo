@@ -116,8 +116,8 @@
 
 ### 外国 English
 
-| 名称                                                         | 日期       | bilibili                                                 | youtube                                                   |
-| ------------------------------------------------------------ | ---------- | -------------------------------------------------------- | --------------------------------------------------------- |
+| 名称                                                         | 日期       | bilibili                                                 | youtube                                                 |
+| ------------------------------------------------------------ | ---------- | -------------------------------------------------------- |---------------------------------------------------------|
 | Genshin Impact Fan Art Celebration 2021                      | 2021-09-26 | [链接/Link](https://www.bilibili.com/video/BV1WY411V7J9) | [链接/Link](https://www.youtube.com/watch?v=RceJuubRQmk)  |
 | HoYoFair 2022 Genshin Impact Fan Art Special Program "Marvellous Battle in the Dream Garden" \| 游园奇梦大作战 | 2022-09-24 | [链接/Link](https://www.bilibili.com/video/BV1iT411T7Rr) | [链接/Link](https://www.youtube.com/watch?v=hl8q1qZIo3E)  |
 | HoYoFair 2023 New Year: Genshin Impact Fan Art Program "A Marvelous Night in the Serenitea Pot" \| 尘歌壶奇妙夜 | 2022-12-31 | [链接/Link](https://www.bilibili.com/video/BV1M14y1A75B) | [链接/Link](https://www.youtube.com/watch?v=714hbQlysgg)  |
@@ -126,7 +126,7 @@
 | HoYoFair2023 Genshin Impact Fan Art Special Program "Cyber Odyssey: The Data Abyss" \|「超骇之旅：数据之渊」 | 2023-09-24 | [链接/Link](https://www.bilibili.com/video/BV1VH4y1U797) | [链接/Link](https://www.youtube.com/watch?v=xGuCCW4qV7A)  |
 | HoYoFair 2024 New Year Genshin Impact & Honkai: Star Rail Fan Art Special Program | 2023-12-30 | [链接/Link](https://www.bilibili.com/video/BV1r5411B7e7) | [链接/Link](https://www.youtube.com/watch?v=gi8gjZWtfbc)  |
 | HoYoFair2024 Spring Genshin Impact Fan Art Special Program "Teyvat Film Festival" \| 提瓦特映影节 | 2024-04-13 | [链接/Link](https://www.bilibili.com/video/BV18i421f7hp) | [链接/Link](https://www.youtube.com/watch?v=nCar9SiJFrs)  |
-| HoYoFair2024 Flame Fusion Music and Art Festival \| HoYoFair2024「焰熔音乐节」原神同人特别节目 | 2024-09-21 | [链接/Link](https://www.youtube.com/watch?v=WTPSY7f3m1M) | [链接/Link](https://www.bilibili.com/video/BV1mdtCeaErC/) |
+| HoYoFair2024 Flame Fusion Music and Art Festival \| HoYoFair2024「焰熔音乐节」原神同人特别节目 | 2024-09-21 | [链接/Link](https://www.bilibili.com/video/BV1mdtCeaErC/) | [链接/Link](https://www.youtube.com/watch?v=WTPSY7f3m1M) |
 
 ### 单角色 Character fan-made concert
 
