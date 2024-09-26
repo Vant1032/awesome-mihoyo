@@ -508,7 +508,7 @@ There are so many excellent works that I can only pick a few of them. Just the o
 
 [Miyoushe (米游社) - Official Wallpapers](https://act.mihoyo.com/ys/event/community-content-collection/index.html?game_biz=hk4e_cn&mhy_presentation_style=fullscreen&mhy_auth_required=true&mhy_hide_status_bar=true&utm_source=gw&utm_medium=ys&utm_campaign=sns#/wallpaper)  | [Miyoushe (米游社) - Fan Art Area](https://www.miyoushe.com/ys/home/29) | [Miyoushe (米游社) - Cosplayer Area](https://www.miyoushe.com/ys/home/49)
 
-[miHoYo Games Store (米游铺): Merchandise for Sale](https://www.mihoyogift.com/) | [miHoYo Games Store (米游铺) - Creator's Booth: Second Creation Creators Can Join](https://www.mihoyogift.com/kol) (Closed)
+[miHoYo Games Store (米游铺): Merchandise for Sale](https://www.mihoyogift.com/) 
 
 [Miyoushe (米游社) - Serenitea Pot Replication Exchange Platform](https://webstatic.mihoyo.com/ys/event/e20221121ugc/index.html?mhy_presentation_style=fullscreen&mhy_auth_required=true&game_biz=hk4e_cn&utm_source=share&utm_medium=bbs&utm_campaign=app#/)
 
