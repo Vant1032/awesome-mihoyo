@@ -248,7 +248,7 @@ There are too many to pick just a few to show, so I'll leave you to discover the
 
 ### CN Community
 
-While collecting information, I found that there are just too many Genshin Impact fan creators on Bilibili. It’s impossible for me to cover them all, so I can only select a few representative ones. For more creators, check out: [Ranking of Genshin Impact Creators by Follower Count (Rank 100-1)【2024/01】](https://www.bilibili.com/video/BV1yi4y1i7nW) (video unavailable now) and [Ranking of Genshin Impact Creators by Follower Count (Rank 200-101)【2024/01】](https://www.bilibili.com/video/BV1d5411i7Yy) (video unavailable now).
+While collecting information, I found that there are just too many Genshin Impact fan creators on Bilibili. It’s impossible for me to cover them all, so I can only select a few representative ones. For more creators, check out:[Genshin Impact Content Creators Data Visualization](https://space.bilibili.com/501994404/channel/collectiondetail?sid=1861517)
 
 | Name             | bilibili                                            | Douyin (抖音)                                                | YouTube                                                |
 | ---------------- | --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
