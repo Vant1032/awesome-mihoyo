@@ -108,7 +108,7 @@
 | 2023原神「夏日回响」二创音乐会         | 2023-11-17 | [链接](https://www.bilibili.com/video/BV1cb4y137M4)          | [链接](https://www.youtube.com/watch?v=r0o8ePd6j28) |
 | 2023年「原神生日会」                   | 2023-09-29 | [链接](https://www.bilibili.com/video/BV1VH4y1U797)          | [链接](https://www.youtube.com/watch?v=Nnb8lI1j1Gg) |
 | 2023年原神三周年二创音乐会《星渊奏章》 | 2023-10-05 | [链接](https://www.bilibili.com/video/BV1tu4y1x771)          |                                                     |
-| 2024年「原神新春会」                   | 2024-02-02 | [链接](https://www.bilibili.com/video/BV1sK42117Bn)          | [链接](https://www.youtube.com/watch?v=wolrUBiZhZU) |
+| 2024年「原神新春会」                   | 2024-02-02 | [链接](https://www.bilibili.com/video/BV1sK42117Bn)          | [链接](https://www.youtube.com/watch?v=x2VhJEAh55) |
 | 2024年「原神生日会」                   | 2024-09-16 | [链接](https://www.bilibili.com/video/BV1HE4depEtz)          | [链接](https://www.youtube.com/watch?v=jqUd5BWG2jY) |
 | 2024「原宇宙放映节」                   | 2024-09-21 | [链接](https://www.bilibili.com/festival/yuanyuzhou?bvid=BV1Zmt6egEMP) |                                                     |
 

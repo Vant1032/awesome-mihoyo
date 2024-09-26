@@ -111,7 +111,7 @@ This page is a collect of Genshin Impact fan-created contents.
 | 2023 Genshin Impact Fan-made Concert “Echoes of Summer”      | 2023-11-17 | [Link](https://www.bilibili.com/video/BV1cb4y137M4)          | [Link](https://www.youtube.com/watch?v=r0o8ePd6j28)          |
 | 2023 Genshin Impact 3rd Anniversary Fan Art Celebration      | 2023-09-29 | [Link](https://www.bilibili.com/video/BV1VH4y1U797)          | [Link](https://www.youtube.com/watch?v=Nnb8lI1j1Gg)          |
 | 2023 Genshin Impact 3rd Anniversary Fan-made Music Concert: 'Stellar Abyss Symphony' (2023年原神三周年二创音乐会《星渊奏章》) | 2023-10-05 | [Link](https://www.bilibili.com/video/BV1tu4y1x771)          |                                                              |
-| 2024 Genshin Impact Spring Festival Special Program          | 2024-02-02 | [Link](https://www.bilibili.com/video/BV1sK42117Bn)          | [Link](https://www.youtube.com/watch?v=wolrUBiZhZU) (Video unavailable) |
+| 2024 Genshin Impact Spring Festival Special Program          | 2024-02-02 | [Link](https://www.bilibili.com/video/BV1sK42117Bn)          | [Link](https://www.youtube.com/watch?v=x2VhJEAh55) (Video unavailable) |
 | 2024 Genshin Impact 3rd Anniversary Fan Art Celebration      | 2024-09-16 | [Link](https://www.bilibili.com/video/BV1HE4depEtz)          | [Link](https://www.youtube.com/watch?v=jqUd5BWG2jY)          |
 | 2024 *Genshinverse* Screening Festival                       | 2024-09-21 | [Link](https://www.bilibili.com/festival/yuanyuzhou?bvid=BV1Zmt6egEMP) |                                                              |
 
