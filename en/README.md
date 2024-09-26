@@ -1,5 +1,7 @@
 **Overview**
 
+[中文版页面](/README.md)
+
 Website Version:
 * https://awesome-mihoyo.pages.dev/
 * https://vant1032.github.io/awesome-mihoyo/

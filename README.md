@@ -1,5 +1,7 @@
 **概述**
 
+[English Version Page](/en/README.md)
+
 网站版：
 * https://awesome-mihoyo.pages.dev/
 * https://vant1032.github.io/awesome-mihoyo/
@@ -9,10 +11,7 @@
 * [下载链接1 国内](https://gitee.com/vant1032/awesome-mihoyo/repository/archive/master.zip)
 * [下载链接2 国外](https://github.com/Vant1032/awesome-mihoyo/archive/refs/heads/master.zip)
 
-本仓库收集米哈游相关二创内容。
-
-
-当前页面为原神二创内容整理。
+本仓库收集米哈游相关二创内容，当前页面为原神二创内容整理。
 
 **导航:**
 
