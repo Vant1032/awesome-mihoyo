@@ -11,6 +11,8 @@ Download this project:
 * [Download Link 1 (Gitee)](https://gitee.com/vant1032/awesome-mihoyo/repository/archive/master.zip)
 * [Download Link 2 (GitHub)](https://github.com/Vant1032/awesome-mihoyo/archive/refs/heads/master.zip)
 
+Repository: [GitHub](https://github.com/Vant1032/awesome-mihoyo) | [Gitee](https://gitee.com/vant1032/awesome-mihoyo/)
+
 This repository collects fan-made content and official content related to miHoYo.
 
 
