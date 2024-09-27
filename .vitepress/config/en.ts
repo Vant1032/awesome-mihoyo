@@ -4,6 +4,7 @@ export const en = defineConfig({
   lang: "en",
 
   title: "miHoYo Fan Art",
+  titleTemplate: 'miHoYo Fan Art - Genshin Impact,Honkai:Star Rail、Zenless Zone Zero Fan art',
   description:
     "About miHoYo: miHoYo Fan-made or Fan art content collection, Genshin Impact Fan-made content collection, Honkai: Star Rail Fan-made content collection.",
 

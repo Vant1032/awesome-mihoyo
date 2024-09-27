@@ -3,9 +3,12 @@ import { defineConfig, type DefaultTheme } from "vitepress";
 export const zh = defineConfig({
   lang: "zh",
 
+  // 每个页面的标题、description是SEO重要组成部分
   title: "米哈游二创收藏夹",
+  titleTemplate: 'miHoYo Fan Art - 米哈游原神、崩坏：星穹铁道、绝区零二创相关',
+  // 鉴于谷歌SEO，此处先放英文
   description:
-    "收集整理大量米哈游旗下游戏的二创内容，包括《原神》《崩坏：星穹铁道》《绝区零》二创内容等和米哈游官方账号整理。",
+    "About miHoYo: miHoYo Fan-made or Fan art content collection, Genshin Impact Fan-made content collection, Honkai: Star Rail Fan-made content collection. 收集整理大量米哈游旗下游戏的二创内容，包括《原神》《崩坏：星穹铁道》《绝区零》二创内容等和米哈游官方账号整理。",
 
   themeConfig: {
     nav: nav(),
