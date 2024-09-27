@@ -11,6 +11,8 @@ Download this project:
 * [Download Link 1 (Gitee)](https://gitee.com/vant1032/awesome-mihoyo/repository/archive/master.zip)
 * [Download Link 2 (GitHub)](https://github.com/Vant1032/awesome-mihoyo/archive/refs/heads/master.zip)
 
+Repository: [GitHub](https://github.com/Vant1032/awesome-mihoyo) | [Gitee](https://gitee.com/vant1032/awesome-mihoyo/)
+
 This repository collects fan-made content and official content related to miHoYo.
 
 
@@ -111,7 +113,7 @@ This page is a collect of Genshin Impact fan-created contents.
 | 2023 Genshin Impact Fan-made Concert “Echoes of Summer”      | 2023-11-17 | [Link](https://www.bilibili.com/video/BV1cb4y137M4)          | [Link](https://www.youtube.com/watch?v=r0o8ePd6j28)          |
 | 2023 Genshin Impact 3rd Anniversary Fan Art Celebration      | 2023-09-29 | [Link](https://www.bilibili.com/video/BV1VH4y1U797)          | [Link](https://www.youtube.com/watch?v=Nnb8lI1j1Gg)          |
 | 2023 Genshin Impact 3rd Anniversary Fan-made Music Concert: 'Stellar Abyss Symphony' (2023年原神三周年二创音乐会《星渊奏章》) | 2023-10-05 | [Link](https://www.bilibili.com/video/BV1tu4y1x771)          |                                                              |
-| 2024 Genshin Impact Spring Festival Special Program          | 2024-02-02 | [Link](https://www.bilibili.com/video/BV1sK42117Bn)          | [Link](https://www.youtube.com/watch?v=wolrUBiZhZU) (Video unavailable) |
+| 2024 Genshin Impact Spring Festival Special Program          | 2024-02-02 | [Link](https://www.bilibili.com/video/BV1sK42117Bn)          | [Link](https://www.youtube.com/watch?v=x2VhJEAh55) (Video unavailable) |
 | 2024 Genshin Impact 3rd Anniversary Fan Art Celebration      | 2024-09-16 | [Link](https://www.bilibili.com/video/BV1HE4depEtz)          | [Link](https://www.youtube.com/watch?v=jqUd5BWG2jY)          |
 | 2024 *Genshinverse* Screening Festival                       | 2024-09-21 | [Link](https://www.bilibili.com/festival/yuanyuzhou?bvid=BV1Zmt6egEMP) |                                                              |
 
@@ -248,7 +250,7 @@ There are too many to pick just a few to show, so I'll leave you to discover the
 
 ### CN Community
 
-While collecting information, I found that there are just too many Genshin Impact fan creators on Bilibili. It’s impossible for me to cover them all, so I can only select a few representative ones. For more creators, check out: [Ranking of Genshin Impact Creators by Follower Count (Rank 100-1)【2024/01】](https://www.bilibili.com/video/BV1yi4y1i7nW) (video unavailable now) and [Ranking of Genshin Impact Creators by Follower Count (Rank 200-101)【2024/01】](https://www.bilibili.com/video/BV1d5411i7Yy) (video unavailable now).
+While collecting information, I found that there are just too many Genshin Impact fan creators on Bilibili. It’s impossible for me to cover them all, so I can only select a few representative ones. For more creators, check out:[Genshin Impact Content Creators Data Visualization](https://space.bilibili.com/501994404/channel/collectiondetail?sid=1861517)
 
 | Name             | bilibili                                            | Douyin (抖音)                                                | YouTube                                                |
 | ---------------- | --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
@@ -508,7 +510,7 @@ There are so many excellent works that I can only pick a few of them. Just the o
 
 [Miyoushe (米游社) - Official Wallpapers](https://act.mihoyo.com/ys/event/community-content-collection/index.html?game_biz=hk4e_cn&mhy_presentation_style=fullscreen&mhy_auth_required=true&mhy_hide_status_bar=true&utm_source=gw&utm_medium=ys&utm_campaign=sns#/wallpaper)  | [Miyoushe (米游社) - Fan Art Area](https://www.miyoushe.com/ys/home/29) | [Miyoushe (米游社) - Cosplayer Area](https://www.miyoushe.com/ys/home/49)
 
-[miHoYo Games Store (米游铺): Merchandise for Sale](https://www.mihoyogift.com/) | [miHoYo Games Store (米游铺) - Creator's Booth: Second Creation Creators Can Join](https://www.mihoyogift.com/kol) (Closed)
+[miHoYo Games Store (米游铺): Merchandise for Sale](https://www.mihoyogift.com/) 
 
 [Miyoushe (米游社) - Serenitea Pot Replication Exchange Platform](https://webstatic.mihoyo.com/ys/event/e20221121ugc/index.html?mhy_presentation_style=fullscreen&mhy_auth_required=true&game_biz=hk4e_cn&utm_source=share&utm_medium=bbs&utm_campaign=app#/)
 

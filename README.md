@@ -11,6 +11,8 @@
 * [下载链接1 国内](https://gitee.com/vant1032/awesome-mihoyo/repository/archive/master.zip)
 * [下载链接2 国外](https://github.com/Vant1032/awesome-mihoyo/archive/refs/heads/master.zip)
 
+代码仓库地址: [Gitee](https://gitee.com/vant1032/awesome-mihoyo/) | [GitHub](https://github.com/Vant1032/awesome-mihoyo)
+
 本仓库收集米哈游相关二创内容，当前页面为原神二创内容整理。
 
 **导航:**
@@ -108,7 +110,7 @@
 | 2023原神「夏日回响」二创音乐会         | 2023-11-17 | [链接](https://www.bilibili.com/video/BV1cb4y137M4)          | [链接](https://www.youtube.com/watch?v=r0o8ePd6j28) |
 | 2023年「原神生日会」                   | 2023-09-29 | [链接](https://www.bilibili.com/video/BV1VH4y1U797)          | [链接](https://www.youtube.com/watch?v=Nnb8lI1j1Gg) |
 | 2023年原神三周年二创音乐会《星渊奏章》 | 2023-10-05 | [链接](https://www.bilibili.com/video/BV1tu4y1x771)          |                                                     |
-| 2024年「原神新春会」                   | 2024-02-02 | [链接](https://www.bilibili.com/video/BV1sK42117Bn)          | [链接](https://www.youtube.com/watch?v=wolrUBiZhZU) |
+| 2024年「原神新春会」                   | 2024-02-02 | [链接](https://www.bilibili.com/video/BV1sK42117Bn)          | [链接](https://www.youtube.com/watch?v=x2VhJEAh55) |
 | 2024年「原神生日会」                   | 2024-09-16 | [链接](https://www.bilibili.com/video/BV1HE4depEtz)          | [链接](https://www.youtube.com/watch?v=jqUd5BWG2jY) |
 | 2024「原宇宙放映节」                   | 2024-09-21 | [链接](https://www.bilibili.com/festival/yuanyuzhou?bvid=BV1Zmt6egEMP) |                                                     |
 
@@ -242,7 +244,7 @@
 
 ### 中文社区
 
-收集资料过程中发现原神在B站的二创up主实在是太多了，我不可能覆盖完全，我只能选取一些代表性的，更多up主看这：[全体原神up主粉丝量排名【第100～1名】【2024/01】](https://www.bilibili.com/video/BV1yi4y1i7nW) 、 [全体原神up主粉丝量排名【第200～101名】【2024/01】](https://www.bilibili.com/video/BV1d5411i7Yy)。
+收集资料过程中发现原神在B站的二创up主实在是太多了，我不可能覆盖完全，我只能选取一些代表性的，更多up主看这：[原神UP主数据可视化](https://space.bilibili.com/501994404/channel/collectiondetail?sid=1861517)
 
 | 名称             | bilibili                                            | 抖音                                                         | YouTube                                                |
 | ---------------- | --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
@@ -502,7 +504,7 @@
 
 [米游社-官方壁纸](https://act.mihoyo.com/ys/event/community-content-collection/index.html?game_biz=hk4e_cn&mhy_presentation_style=fullscreen&mhy_auth_required=true&mhy_hide_status_bar=true&utm_source=gw&utm_medium=ys&utm_campaign=sns#/wallpaper)  | [米游社-同人图区](https://www.miyoushe.com/ys/home/29)| [米游社-COS区](https://www.miyoushe.com/ys/home/49)
 
-[米游铺：出售周边](https://www.mihoyogift.com/) | [米游铺-创小摊：二创作者可入驻](https://www.mihoyogift.com/kol)
+[米游铺：出售周边](https://www.mihoyogift.com/) 
 
 [米游社-尘歌壶摹本交流平台](https://webstatic.mihoyo.com/ys/event/e20221121ugc/index.html?mhy_presentation_style=fullscreen&mhy_auth_required=true&game_biz=hk4e_cn&utm_source=share&utm_medium=bbs&utm_campaign=app#/)
 
