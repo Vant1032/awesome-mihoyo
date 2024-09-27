@@ -8,10 +8,11 @@
 * https://awesome-mihoyo.vercel.app/ 
 
 下载本项目：
-* [下载链接1 国内](https://gitee.com/vant1032/awesome-mihoyo/repository/archive/master.zip)
-* [下载链接2 国外](https://github.com/Vant1032/awesome-mihoyo/archive/refs/heads/master.zip)
+* [下载链接1 GitHub](https://github.com/Vant1032/awesome-mihoyo/archive/refs/heads/master.zip)
+* [下载链接2 Gitlab](https://gitlab.com/Vant1032/awesome-mihoyo/-/archive/master/awesome-mihoyo-master.zip)
+* [下载链接3 Gitee](https://gitee.com/vant1032/awesome-mihoyo/repository/archive/master.zip)
 
-代码仓库地址: [Gitee](https://gitee.com/vant1032/awesome-mihoyo/) | [GitHub](https://github.com/Vant1032/awesome-mihoyo) | [GitLab](https://gitlab.com/Vant1032/awesome-mihoyo)
+代码仓库地址:  [GitHub](https://github.com/Vant1032/awesome-mihoyo) | [GitLab](https://gitlab.com/Vant1032/awesome-mihoyo) | [Gitee](https://gitee.com/vant1032/awesome-mihoyo/)
 
 本仓库收集米哈游相关二创内容，当前页面为原神二创内容整理。
 

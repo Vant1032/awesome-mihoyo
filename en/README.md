@@ -8,8 +8,9 @@ Website Version:
 * https://awesome-mihoyo.vercel.app/ 
 
 Download this project:
-* [Download Link 1 (Gitee)](https://gitee.com/vant1032/awesome-mihoyo/repository/archive/master.zip)
-* [Download Link 2 (GitHub)](https://github.com/Vant1032/awesome-mihoyo/archive/refs/heads/master.zip)
+* [Download Link 1 (GitHub)](https://github.com/Vant1032/awesome-mihoyo/archive/refs/heads/master.zip)
+* [Download Link 2 (GitLab)](https://gitlab.com/Vant1032/awesome-mihoyo/-/archive/master/awesome-mihoyo-master.zip)
+* [Download Link 3 (Gitee)](https://gitee.com/vant1032/awesome-mihoyo/repository/archive/master.zip)
 
 Repository: [GitHub](https://github.com/Vant1032/awesome-mihoyo) | [Gitee](https://gitee.com/vant1032/awesome-mihoyo/) | [GitLab](https://gitlab.com/Vant1032/awesome-mihoyo)
 
