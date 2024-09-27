@@ -19,7 +19,7 @@
 
 ## Genshin Impact
 
-| 名称             | bilibili                                             | Douyin (抖音)                          | Xiaohongshu (小红书)                                         | Weibo (微博)                           |
+| Account          | bilibili                                             | Douyin (抖音)                          | Xiaohongshu (小红书)                                         | Weibo (微博)                           |
 | ---------------- | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------ | -------------------------------------- |
 | 原神             | [Link](https://space.bilibili.com/401742377)         | [Link](https://v.douyin.com/i2kF2UAp/) | [Link](https://www.xiaohongshu.com/user/profile/5eb67f19000000000100787f) | [Link](https://weibo.com/u/6593199887) |
 | 派蒙的工作笔记   | [Link](https://space.bilibili.com/1669328690)        |                                        | [Link](https://www.xiaohongshu.com/user/profile/6304b93300000000120014ac) | [Link](https://weibo.com/u/7587837369) |
@@ -38,7 +38,7 @@
 
 ## Honkai: Star Rail
 
-| 名称           | bilibili                                            | Douyin (抖音)                          | Xiaohongshu (小红书)                                         | Weibo (微博)                           |
+| Account        | bilibili                                            | Douyin (抖音)                          | Xiaohongshu (小红书)                                         | Weibo (微博)                           |
 | -------------- | --------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------ | -------------------------------------- |
 | 崩坏：星穹铁道 | [Link](https://space.bilibili.com/1340190821)       | [Link](https://v.douyin.com/i2kj5dxV/) | [Link](https://www.xiaohongshu.com/user/profile/61dd94d3000000001000b155) | [Link](https://weibo.com/u/7643376782) |
 | 星穹铁道小呜呜 | [Link](https://space.bilibili.com/3493120220071960) |                                        |                                                              | [Link](https://weibo.com/u/7709937124) |
@@ -49,7 +49,7 @@
 
 ## Zenless Zone Zero
 
-| 名称               | bilibili                                            | Douyin (抖音)                          | Xiaohongshu (小红书)                                         | Weibo (微博)                           |
+| Account            | bilibili                                            | Douyin (抖音)                          | Xiaohongshu (小红书)                                         | Weibo (微博)                           |
 | ------------------ | --------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------ | -------------------------------------- |
 | 绝区零             | [Link](https://space.bilibili.com/1636034895)       | [Link](https://v.douyin.com/i2kjbkn4/) | [Link](https://www.xiaohongshu.com/user/profile/60d3096f0000000020028eb0) | [Link](https://weibo.com/u/7632078520) |
 | 邦布帮             | [Link](https://space.bilibili.com/3546578054810019) | [Link](https://v.douyin.com/i2kjoYK3/) | [Link](https://www.xiaohongshu.com/user/profile/6551d9ff000000000202a20c) | [Link](https://weibo.com/u/7884342228) |
@@ -59,7 +59,7 @@
 
 ## Honkai Impact 3
 
-| 名称        | bilibili                             | Douyin (抖音)                  | Xiaohongshu (小红书)                                         | Weibo (微博)                                |
+| Account   | bilibili                             | Douyin (抖音)                  | Xiaohongshu (小红书)                                         | Weibo (微博)                                |
 |-----------| ------------------------------------ | ------------------------------ | ------------------------------------------------------------ |-------------------------------------------|
 | 崩坏3       | [Link](https://space.bilibili.com/256667467) | [Link](https://v.douyin.com/i2k6jWVy/) |                                                              | [Link](https://weibo.com/u/5812573321) |
 | 崩坏3第一偶像爱酱 | [Link](https://space.bilibili.com/27534330)  |                                | [Link](https://www.xiaohongshu.com/user/profile/619a89c60000000021024dc7) |                                           |
@@ -67,13 +67,13 @@
 
 ## Tears of Themis
 
-| 名称       | bilibili                                     | Douyin (抖音)                          | Xiaohongshu (小红书)                                         | Weibo (微博)                           |
+| Account    | bilibili                                     | Douyin (抖音)                          | Xiaohongshu (小红书)                                         | Weibo (微博)                           |
 | ---------- | -------------------------------------------- | -------------------------------------- | ------------------------------------------------------------ | -------------------------------------- |
 | 未定事件簿 | [Link](https://space.bilibili.com/436175352) | [Link](https://v.douyin.com/ijEbfdR3/) | [Link](https://www.xiaohongshu.com/user/profile/617fa8a40000000002027760) | [Link](https://weibo.com/u/7072153506) |
 
 ## Houkai Gakuen 2
 
-| 名称     | bilibili                                     | Douyin (抖音)                               | Xiaohongshu (小红书) | Weibo (微博)                                |
+| Account | bilibili                                     | Douyin (抖音)                               | Xiaohongshu (小红书) | Weibo (微博)                                |
 |--------|----------------------------------------------| ------------------------------------------- |-----|-------------------------------------------|
 | 崩坏学园2-灵依娘desu | [Link](https://space.bilibili.com/133934) |  |     | [Link](https://weibo.com/u/1980539365) |
 | 崩坏开发日志 |                                              | |     |                                     [Link](https://weibo.com/u/5967971838)      |

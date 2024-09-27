@@ -26,7 +26,7 @@
 
 There are so many excellent works that I can only pick a few of them. Just the ones with over a million views are already incredibly numerous.
 
-| Titler                                               | bilibili                                             | YouTube | Comments | Related Video                                                |
+| Title                                               | bilibili                                             | YouTube | Comments | Related Video                                                |
 | ---------------------------------------------------- | ---------------------------------------------------- | ------- | -------- | ------------------------------------------------------------ |
 | 全网最简单！给我一首歌的时间教你11号刀刀烈火！包会的 | [Link](https://www.bilibili.com/video/BV1h6hxe8E7a/) |         |          | [《绝区零》11号玛卡巴卡PV 「残酷」花园宝宝的行动纲领](https://www.bilibili.com/video/BV1Af421q78D/) |
 

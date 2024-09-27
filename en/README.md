@@ -100,7 +100,7 @@ This page is a collect of Genshin Impact fan-created contents.
 
 ### CN Community
 
-| Titler                                                       | Date       | bilibili                                                     | YouTube                                                      |
+| Title                                                       | Date       | bilibili                                                     | YouTube                                                      |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2021 Genshin Impact Celebration Of Spring Festival           | 2021-02-06 | [Link](https://www.bilibili.com/video/BV1FV411i7ok)          | [Link](https://www.youtube.com/watch?v=p2wKKL8jFMw)          |
 | 2021 Genshin Impact 1st Anniversary Fan Art Celebration      | 2021-09-25 | [Link](https://www.bilibili.com/video/BV1df4y1w7Z1)          | [Link](https://www.youtube.com/watch?v=t1l-7tmFWmA)          |
