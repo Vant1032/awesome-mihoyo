@@ -72,5 +72,9 @@ export const shared = defineConfig({
     socialLinks: [
       { icon: "github", link: "https://github.com/Vant1032/awesome-mihoyo" },
     ],
+
+    editLink: {
+      pattern: "https://github.com/Vant1032/awesome-mihoyo/blob/master/:path",
+    },
   },
 });
