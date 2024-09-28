@@ -18,6 +18,7 @@ export const shared = defineConfig({
 
   lastUpdated: true,
   cleanUrls: true,
+  ignoreDeadLinks: true,
   metaChunk: true,
 
   sitemap: {
