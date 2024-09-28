@@ -10,7 +10,9 @@ export const en = defineConfig({
 
   themeConfig: {
     nav: nav(),
-
+    outline: {
+      level: "deep",
+    },
     sidebar: sidebar(),
   },
 });
