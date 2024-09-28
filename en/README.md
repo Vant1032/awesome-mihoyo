@@ -62,6 +62,8 @@ This page is a collect of Genshin Impact fan-created contents.
 | Story Teaser: La vaguelette \| Genshin Impact                | [Link](https://www.bilibili.com/video/BV1Jg4y197YW)          | [Link](https://www.youtube.com/watch?v=kglEsR7bqAY)          |
 | Storyline EP "La vaguelette" MV \| Genshin Impact            | [Link](https://www.bilibili.com/video/BV17N411g7Ft)          | [Link](https://www.youtube.com/watch?v=jHjUHKdoaqI)          |
 | Absolutio Absoluta Absolutissime - Parting of Light and Shadow MV | [Link](https://www.bilibili.com/video/BV1Lr42137pp)          | [Link](https://www.youtube.com/watch?v=0ZNqBF3M7-8)          |
+| "The Road Not Taken" Animated Short                          | [Link](https://www.bilibili.com/video/BV1bD421G7hy/)         | [Link](https://www.youtube.com/watch?v=T5-YMslEmxw)          |
+| Natlan Live Symphony Performance                             | [Link](https://www.bilibili.com/video/BV18E4m1d7b7/)         | [Link](https://www.youtube.com/watch?v=TyCB25oXUA4)          |
 | 4th Anniversary Theme Song: "Passing Memories"               | [Multilingual](https://www.bilibili.com/video/BV1LEsdevEMc/)<br />[Jason Zhang MV](https://www.bilibili.com/video/BV17sxPeYEbh/)<br />[Mika Nakashima MV](https://www.bilibili.com/video/BV1BTxjeYEsi/)<br />[Faouzia MV](https://www.bilibili.com/video/BV1YUsferErW/) | [CN Ver.](https://www.youtube.com/watch?v=BDZZso6kJ0k)<br />[EN Ver.](https://www.youtube.com/watch?v=j3661mhHfvY)<br />[JP Ver.](https://www.youtube.com/watch?v=yCc0bpbsPgo) <br />[Mika Nakashima MV](https://www.youtube.com/watch?v=Z9i2B7uvF80) |
 
 ### Variety Show
