@@ -59,6 +59,8 @@
 | 《原神》剧情PV-「轻涟」                                | [链接](https://www.bilibili.com/video/BV1Jg4y197YW)          | [链接](https://www.youtube.com/watch?v=kglEsR7bqAY)          |
 | 《原神》游戏剧情EP「轻涟」MV                           | [链接](https://www.bilibili.com/video/BV17N411g7Ft)          | [链接](https://www.youtube.com/watch?v=jHjUHKdoaqI)          |
 | 「终末的赦祷颂-演绎版」：《原神》「光与影的诀别」MV    | [链接](https://www.bilibili.com/video/BV1Lr42137pp)          | [链接](https://www.youtube.com/watch?v=0ZNqBF3M7-8)          |
+| 《原神》动画短片——「未行之路」                         | [链接](https://www.bilibili.com/video/BV1bD421G7hy/)         | [链接](https://www.youtube.com/watch?v=T5-YMslEmxw)          |
+| 《原神》纳塔交响音乐现场                               | [链接](https://www.bilibili.com/video/BV18E4m1d7b7/)         | [链接](https://www.youtube.com/watch?v=TyCB25oXUA4)          |
 | 《原神》四周年主题曲《经过》                           | [三语版本](https://www.bilibili.com/video/BV1LEsdevEMc/)<br />[张杰 MV](https://www.bilibili.com/video/BV17sxPeYEbh/)<br />[中岛美嘉 MV](https://www.bilibili.com/video/BV1BTxjeYEsi/)<br />[凡希亚 MV](https://www.bilibili.com/video/BV1YUsferErW/) | [中文版](https://www.youtube.com/watch?v=BDZZso6kJ0k)<br />[英文版](https://www.youtube.com/watch?v=j3661mhHfvY)<br />[日文版](https://www.youtube.com/watch?v=yCc0bpbsPgo)<br />[中岛美嘉 MV](https://www.youtube.com/watch?v=Z9i2B7uvF80) |
 
 ### 综艺
