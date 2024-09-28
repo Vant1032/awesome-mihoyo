@@ -38,6 +38,11 @@ export const zh = defineConfig({
     darkModeSwitchLabel: "主题",
     lightModeSwitchTitle: "切换到浅色模式",
     darkModeSwitchTitle: "切换到深色模式",
+
+    editLink: {
+      pattern: "https://github.com/Vant1032/awesome-mihoyo/blob/master/:path",
+      text: "在 Github 上编辑此页",
+    },
   },
 });
 

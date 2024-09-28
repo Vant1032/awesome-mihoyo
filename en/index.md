@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "miHoYo Fan Arts Collection"
-  text: ""
-  tagline: 
+  name: "Hoyoverse Fan Arts"
+  text: "Collections"
+  tagline: HoYoFair Festivals · Outstanding Fan Arts · Hoyoverse Official Accounts
   actions:
     - theme: brand
       text: Genshin Impact
@@ -16,7 +16,4 @@ hero:
     - theme: alt
       text: Zenless Zone Zero
       link: /en/ZenlessZoneZero(绝区零).md
-
-
 ---
-
