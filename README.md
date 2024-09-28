@@ -373,7 +373,7 @@
 | 自由魂儿儿儿       | [链接](https://space.bilibili.com/1282271864)       |
 | 时雨ioo            | [链接](https://space.bilibili.com/27717502)         |
 | 神奇的巅峰         | [链接](https://space.bilibili.com/3461583101495313) |
-| 棉花大哥哥         | [链接](https://space.bilibili.com/1871001)          |
+| （已退出）~~棉花大哥哥~~         | ~~[链接](https://space.bilibili.com/1871001)~~         |
 | 梓宸爱公子         | [链接](https://space.bilibili.com/1617097682)       |
 | Leah莉娅又迟到啦   | [链接](https://space.bilibili.com/31922771)         |
 | 小86               | [链接](https://v.douyin.com/i2AmhU7u/)              |
