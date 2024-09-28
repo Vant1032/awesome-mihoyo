@@ -44,21 +44,22 @@
 
 ### 音乐MV
 
-| 名称                                                   | 链接                                                |
-| ------------------------------------------------------ | --------------------------------------------------- |
-| 《原神》璃月音乐录制实拍视频                           | [链接](https://www.bilibili.com/video/BV1fy4y1C7gU) |
-| 「山巅雪国的记忆」：《原神》龙脊雪山OST印象曲MV        | [链接](https://www.bilibili.com/video/BV16v41187dP) |
-| 「纯真的歌谣」：《原神》稻妻篇OST2雾海纪行主题印象曲MV | [链接](https://www.bilibili.com/video/BV1YY4y1H7wD) |
-| 「斩雾破竹」——《原神》稻妻OST战斗音乐MV                | [链接](https://www.bilibili.com/video/BV1Eq4y1f7r9) |
-| 《原神》剧情PV-「神女劈观」                            | [链接](https://www.bilibili.com/video/BV1kS4y1T7kK) |
-| 《原神》须弥篇OST「智妙明论之林」先导MV                | [链接](https://www.bilibili.com/video/BV1He4y1y76A) |
-| 《原神》须弥篇OST「智妙明论之林」宣传MV                | [链接](https://www.bilibili.com/video/BV14e411V7Bi) |
-| 「三千娑世御咏歌-演绎版」：《原神》须弥2 OST宣传MV     | [链接](https://www.bilibili.com/video/BV1Xh4y1H72Q) |
-| 原神×隋文静/韩聪 - 以花样滑冰演绎「冰风组曲」          | [链接](https://www.bilibili.com/video/BV1KN4y1X7DB) |
-| 「咏歌与凯旋」：《原神》枫丹篇OST宣传MV                | [链接](https://www.bilibili.com/video/BV1pF411U7mn) |
-| 《原神》剧情PV-「轻涟」                                | [链接](https://www.bilibili.com/video/BV1Jg4y197YW) |
-| 《原神》游戏剧情EP「轻涟」MV                           | [链接](https://www.bilibili.com/video/BV17N411g7Ft) |
-| 「终末的赦祷颂-演绎版」：《原神》「光与影的诀别」MV    | [链接](https://www.bilibili.com/video/BV1Lr42137pp) |
+| 名称                                                   | bilibili                                                     | YouTube                                                      |
+| ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 《原神》璃月音乐录制实拍视频                           | [链接](https://www.bilibili.com/video/BV1fy4y1C7gU)          | [链接](https://www.youtube.com/watch?v=pFrKZxStL_U)          |
+| 「山巅雪国的记忆」：《原神》龙脊雪山OST印象曲MV        | [链接](https://www.bilibili.com/video/BV16v41187dP)          | [链接](https://www.youtube.com/watch?v=mAHW2ioE1g4)          |
+| 「纯真的歌谣」：《原神》稻妻篇OST2雾海纪行主题印象曲MV | [链接](https://www.bilibili.com/video/BV1YY4y1H7wD)          | [链接](https://www.youtube.com/watch?v=O_Udh58C2dM)          |
+| 「斩雾破竹」——《原神》稻妻OST战斗音乐MV                | [链接](https://www.bilibili.com/video/BV1Eq4y1f7r9)          | [链接](https://www.youtube.com/watch?v=FYP2dM8RTFM)          |
+| 《原神》剧情PV-「神女劈观」                            | [链接](https://www.bilibili.com/video/BV1kS4y1T7kK)          | [链接](https://www.youtube.com/watch?v=EiAhMr6IJTQ)          |
+| 《原神》须弥篇OST「智妙明论之林」先导MV                | [链接](https://www.bilibili.com/video/BV1He4y1y76A)          | [链接](https://www.youtube.com/watch?v=NfbT1Rgos4I)          |
+| 《原神》须弥篇OST「智妙明论之林」宣传MV                | [链接](https://www.bilibili.com/video/BV14e411V7Bi)          | [链接](https://www.youtube.com/watch?v=zQBrgGjwCPM)          |
+| 「三千娑世御咏歌-演绎版」：《原神》须弥2 OST宣传MV     | [链接](https://www.bilibili.com/video/BV1Xh4y1H72Q)          | [链接](https://www.youtube.com/watch?v=CyrsVvea0TM)          |
+| 原神×隋文静/韩聪 - 以花样滑冰演绎「冰风组曲」          | [链接](https://www.bilibili.com/video/BV1KN4y1X7DB)          | [链接](https://www.youtube.com/watch?v=yR-Ni17b6dE)          |
+| 「咏歌与凯旋」：《原神》枫丹篇OST宣传MV                | [链接](https://www.bilibili.com/video/BV1pF411U7mn)          | [链接](https://www.youtube.com/watch?v=PRI7vd4Ojh8)          |
+| 《原神》剧情PV-「轻涟」                                | [链接](https://www.bilibili.com/video/BV1Jg4y197YW)          | [链接](https://www.youtube.com/watch?v=kglEsR7bqAY)          |
+| 《原神》游戏剧情EP「轻涟」MV                           | [链接](https://www.bilibili.com/video/BV17N411g7Ft)          | [链接](https://www.youtube.com/watch?v=jHjUHKdoaqI)          |
+| 「终末的赦祷颂-演绎版」：《原神》「光与影的诀别」MV    | [链接](https://www.bilibili.com/video/BV1Lr42137pp)          | [链接](https://www.youtube.com/watch?v=0ZNqBF3M7-8)          |
+| 《原神》四周年主题曲《经过》                           | [三语版本](https://www.bilibili.com/video/BV1LEsdevEMc/)<br />[张杰 MV](https://www.bilibili.com/video/BV17sxPeYEbh/)<br />[中岛美嘉 MV](https://www.bilibili.com/video/BV1BTxjeYEsi/)<br />[凡希亚 MV](https://www.bilibili.com/video/BV1YUsferErW/) | [中文版](https://www.youtube.com/watch?v=BDZZso6kJ0k)<br />[英文版](https://www.youtube.com/watch?v=j3661mhHfvY)<br />[日文版](https://www.youtube.com/watch?v=yCc0bpbsPgo)<br />[中岛美嘉 MV](https://www.youtube.com/watch?v=Z9i2B7uvF80) |
 
 ### 综艺
 

@@ -47,21 +47,22 @@ This page is a collect of Genshin Impact fan-created contents.
 
 ### Music Videos (MV)
 
-| Title                                                  | Links                                               |
-| ------------------------------------------------------ | --------------------------------------------------- |
-| 《原神》璃月音乐录制实拍视频                           | [Link](https://www.bilibili.com/video/BV1fy4y1C7gU) |
-| 「山巅雪国的记忆」：《原神》龙脊雪山OST印象曲MV        | [Link](https://www.bilibili.com/video/BV16v41187dP) |
-| 「纯真的歌谣」：《原神》稻妻篇OST2雾海纪行主题印象曲MV | [Link](https://www.bilibili.com/video/BV1YY4y1H7wD) |
-| 「斩雾破竹」——《原神》稻妻OST战斗音乐MV                | [Link](https://www.bilibili.com/video/BV1Eq4y1f7r9) |
-| 《原神》剧情PV-「神女劈观」                            | [Link](https://www.bilibili.com/video/BV1kS4y1T7kK) |
-| 《原神》须弥篇OST「智妙明论之林」先导MV                | [Link](https://www.bilibili.com/video/BV1He4y1y76A) |
-| 《原神》须弥篇OST「智妙明论之林」宣传MV                | [Link](https://www.bilibili.com/video/BV14e411V7Bi) |
-| 「三千娑世御咏歌-演绎版」：《原神》须弥2 OST宣传MV     | [Link](https://www.bilibili.com/video/BV1Xh4y1H72Q) |
-| 原神×隋文静/韩聪 - 以花样滑冰演绎「冰风组曲」          | [Link](https://www.bilibili.com/video/BV1KN4y1X7DB) |
-| 「咏歌与凯旋」：《原神》枫丹篇OST宣传MV                | [Link](https://www.bilibili.com/video/BV1pF411U7mn) |
-| 《原神》剧情PV-「轻涟」                                | [Link](https://www.bilibili.com/video/BV1Jg4y197YW) |
-| 《原神》游戏剧情EP「轻涟」MV                           | [Link](https://www.bilibili.com/video/BV17N411g7Ft) |
-| 「终末的赦祷颂-演绎版」：《原神》「光与影的诀别」MV    | [Link](https://www.bilibili.com/video/BV1Lr42137pp) |
+| Title                                                        | bilibili                                                     | YouTube                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Producing the Sounds of Liyue \| Genshin Impact: Behind the Scenes | [Link](https://www.bilibili.com/video/BV1fy4y1C7gU)          | [Link](https://www.youtube.com/watch?v=pFrKZxStL_U)          |
+| "Tales From the Snow Mountain" - Genshin Impact Dragonspine OST Feature Video | [Link](https://www.bilibili.com/video/BV16v41187dP)          | [Link](https://www.youtube.com/watch?v=mAHW2ioE1g4)          |
+| "Song of Innocence": Inazuma Chapter OST Album 2 - Through the Mists Theme MV | [Link](https://www.bilibili.com/video/BV1YY4y1H7wD)          | [Link](https://www.youtube.com/watch?v=O_Udh58C2dM)          |
+| Duel in the Mist - Inazuma OST Battle Theme MV               | [Link](https://www.bilibili.com/video/BV1Eq4y1f7r9)          | [Link](https://www.youtube.com/watch?v=FYP2dM8RTFM)          |
+| Story Teaser: The Divine Damsel of Devastation               | [Link](https://www.bilibili.com/video/BV1kS4y1T7kK)          | [Link](https://www.youtube.com/watch?v=EiAhMr6IJTQ)          |
+| Sumeru OST "Forest of Jnana and Vidya" Preview MV            | [Link](https://www.bilibili.com/video/BV1He4y1y76A)          | [Link](https://www.youtube.com/watch?v=NfbT1Rgos4I)          |
+| Sumeru OST "Forest of Jnana and Vidya" Promotional MV        | [Link](https://www.bilibili.com/video/BV14e411V7Bi)          | [Link](https://www.youtube.com/watch?v=zQBrgGjwCPM)          |
+| Polumnia Omnia (Performance Version) - Sumeru Vol. 2 OST Album Promotional MV | [Link](https://www.bilibili.com/video/BV1Xh4y1H72Q)          | [Link](https://www.youtube.com/watch?v=CyrsVvea0TM)          |
+| Genshin Impact × SUI/HAN - Collaboration Video               | [Link](https://www.bilibili.com/video/BV1KN4y1X7DB)          | [Link](https://www.youtube.com/watch?v=yR-Ni17b6dE)          |
+| Lamentation et Triomphe - Fontaine OST Album Promotional MV  | [Link](https://www.bilibili.com/video/BV1pF411U7mn)          | [Link](https://www.youtube.com/watch?v=PRI7vd4Ojh8)          |
+| Story Teaser: La vaguelette \| Genshin Impact                | [Link](https://www.bilibili.com/video/BV1Jg4y197YW)          | [Link](https://www.youtube.com/watch?v=kglEsR7bqAY)          |
+| Storyline EP "La vaguelette" MV \| Genshin Impact            | [Link](https://www.bilibili.com/video/BV17N411g7Ft)          | [Link](https://www.youtube.com/watch?v=jHjUHKdoaqI)          |
+| Absolutio Absoluta Absolutissime - Parting of Light and Shadow MV | [Link](https://www.bilibili.com/video/BV1Lr42137pp)          | [Link](https://www.youtube.com/watch?v=0ZNqBF3M7-8)          |
+| 4th Anniversary Theme Song: "Passing Memories"               | [Multilingual](https://www.bilibili.com/video/BV1LEsdevEMc/)<br />[Jason Zhang MV](https://www.bilibili.com/video/BV17sxPeYEbh/)<br />[Mika Nakashima MV](https://www.bilibili.com/video/BV1BTxjeYEsi/)<br />[Faouzia MV](https://www.bilibili.com/video/BV1YUsferErW/) | [CN Ver.](https://www.youtube.com/watch?v=BDZZso6kJ0k)<br />[EN Ver.](https://www.youtube.com/watch?v=j3661mhHfvY)<br />[JP Ver.](https://www.youtube.com/watch?v=yCc0bpbsPgo) <br />[Mika Nakashima MV](https://www.youtube.com/watch?v=Z9i2B7uvF80) |
 
 ### Variety Show
 
