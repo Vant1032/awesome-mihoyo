@@ -91,6 +91,11 @@ This page is a collect of Genshin Impact fan-created contents.
 | Aww (Hutao Song)                                 | [Link](https://www.bilibili.com/video/BV1Dp4y1H7RE)          | [Link](https://www.youtube.com/watch?v=zoTg7ZpKEUY) |
 | Of Liyue Clouds and Seas                         | [Link](https://www.bilibili.com/video/BV17m4y1S7PM)          | [Link](https://www.youtube.com/watch?v=3WPl7p-EVHg) |
 | Does it really sound that good? (真有这么好听？) | [Link](https://www.bilibili.com/video/BV1Wy4y1i7AL)          | [Link](https://www.youtube.com/watch?v=pwQ_MkyuVPs) |
+| Don't make me worry                              | [Link](https://www.bilibili.com/video/BV1Yj41187gS)          | [Link](https://www.youtube.com/watch?v=DgbXBZMmDXg)          |
+| Wind and Promises                                | [Link](https://www.bilibili.com/video/BV1Xr4y1P7uJ/)         | [Link (Repost)](https://www.youtube.com/watch?v=n3TtCF28rPk) |
+| Wind and Flying Birds                            | [Link](https://www.bilibili.com/video/BV1yf4y1F7Yj/)         | [Link](https://www.youtube.com/watch?v=BWhzmUzR-U8)          |
+| A Thousand Nights in a Dream                     | [Link](https://www.bilibili.com/video/BV1QL4y147wM/)         | [Fandom](https://vocaloidlyrics.fandom.com/wiki/%E4%B8%80%E6%A2%A6%E5%8D%83%E5%AE%B5_(Y%C4%AB_M%C3%A8ng_Qi%C4%81n_Xi%C4%81o)) |
+| Just Right To Have You                           | [Link](https://www.bilibili.com/video/BV1ZY4y1Z7og/)         | [YouTube](https://www.youtube.com/watch?v=OnxmL6V3J3I) \| [Fandom](https://vocaloidlyrics.fandom.com/wiki/%E6%9C%89%E4%BD%A0%E5%88%9A%E5%88%9A%E5%A5%BD_(Y%C7%92u_N%C7%90_G%C4%81ngg%C4%81ng_H%C7%8Eo)) |
 
 ## English fan-made music
 

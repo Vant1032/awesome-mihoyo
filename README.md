@@ -88,6 +88,11 @@
 | 胡桃单曲《嗷》 | [链接](https://www.bilibili.com/video/BV1Dp4y1H7RE)          | [链接](https://www.youtube.com/watch?v=zoTg7ZpKEUY) |
 | 璃云月海       | [链接](https://www.bilibili.com/video/BV17m4y1S7PM)          | [链接](https://www.youtube.com/watch?v=3WPl7p-EVHg) |
 | 真有这么好听？ | [链接](https://www.bilibili.com/video/BV1Wy4y1i7AL)          | [链接](https://www.youtube.com/watch?v=pwQ_MkyuVPs) |
+| 别让我担心     | [链接](https://www.bilibili.com/video/BV1Yj41187gS)          | [链接](https://www.youtube.com/watch?v=DgbXBZMmDXg)         |
+| 风与约定       | [链接](https://www.bilibili.com/video/BV1Xr4y1P7uJ/)         | [链接（转载）](https://www.youtube.com/watch?v=n3TtCF28rPk) |
+| 风与飞鸟       | [链接](https://www.bilibili.com/video/BV1yf4y1F7Yj/)         | [链接](https://www.youtube.com/watch?v=BWhzmUzR-U8)         |
+| 一梦千宵       | [链接](https://www.bilibili.com/video/BV1QL4y147wM/)         | [链接（转载）](https://www.youtube.com/watch?v=aHMR9pJG54E) |
+| 有你刚刚好     | [链接](https://www.bilibili.com/video/BV1ZY4y1Z7og/)         | [链接](https://www.youtube.com/watch?v=OnxmL6V3J3I)         |
 
 ## 外网同人歌曲
 
