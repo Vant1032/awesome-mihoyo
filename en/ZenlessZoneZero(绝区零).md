@@ -1,6 +1,9 @@
 #  Fan Art -Zenless Zone Zero
 
-
+## Official Concerts
+| Title                                                             | Date       | bilibili                                            | Youtube                                             |
+|-------------------------------------------------------------------| ---------- | --------------------------------------------------- | --------------------------------------------------- |
+| Hyper Commission \| Zenless Zone Zero 2024 Mix [Full DJ live set] | 2024-09-13 | [Link](https://www.bilibili.com/video/BV1Ap4ZetE7P/) | [Link](https://www.youtube.com/watch?v=s3ZLUh0N9zs) |
 
 ## Influential Content Creators
 
