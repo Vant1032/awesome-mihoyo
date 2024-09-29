@@ -88,6 +88,11 @@
 | 胡桃单曲《嗷》 | [链接](https://www.bilibili.com/video/BV1Dp4y1H7RE)          | [链接](https://www.youtube.com/watch?v=zoTg7ZpKEUY) |
 | 璃云月海       | [链接](https://www.bilibili.com/video/BV17m4y1S7PM)          | [链接](https://www.youtube.com/watch?v=3WPl7p-EVHg) |
 | 真有这么好听？ | [链接](https://www.bilibili.com/video/BV1Wy4y1i7AL)          | [链接](https://www.youtube.com/watch?v=pwQ_MkyuVPs) |
+| 别让我担心     | [链接](https://www.bilibili.com/video/BV1Yj41187gS)          | [链接](https://www.youtube.com/watch?v=DgbXBZMmDXg)         |
+| 风与约定       | [链接](https://www.bilibili.com/video/BV1Xr4y1P7uJ/)         | [链接（转载）](https://www.youtube.com/watch?v=n3TtCF28rPk) |
+| 风与飞鸟       | [链接](https://www.bilibili.com/video/BV1yf4y1F7Yj/)         | [链接](https://www.youtube.com/watch?v=BWhzmUzR-U8)         |
+| 一梦千宵       | [链接](https://www.bilibili.com/video/BV1QL4y147wM/)         | [链接（转载）](https://www.youtube.com/watch?v=aHMR9pJG54E) |
+| 有你刚刚好     | [链接](https://www.bilibili.com/video/BV1ZY4y1Z7og/)         | [链接](https://www.youtube.com/watch?v=OnxmL6V3J3I)         |
 
 ## 外网同人歌曲
 
@@ -375,7 +380,7 @@
 | 自由魂儿儿儿       | [链接](https://space.bilibili.com/1282271864)       |
 | 时雨ioo            | [链接](https://space.bilibili.com/27717502)         |
 | 神奇的巅峰         | [链接](https://space.bilibili.com/3461583101495313) |
-| 棉花大哥哥         | [链接](https://space.bilibili.com/1871001)          |
+| （已退出）~~棉花大哥哥~~         | ~~[链接](https://space.bilibili.com/1871001)~~         |
 | 梓宸爱公子         | [链接](https://space.bilibili.com/1617097682)       |
 | Leah莉娅又迟到啦   | [链接](https://space.bilibili.com/31922771)         |
 | 小86               | [链接](https://v.douyin.com/i2AmhU7u/)              |
@@ -495,6 +500,8 @@
 | 你把戒指吃下去了啊？...唔？！                                | [链接](https://www.bilibili.com/video/BV1Kt421u7mJ)          |                                                     | 超甜的爱情                                 | [Youtube版](https://www.youtube.com/watch?v=9st-zZZ5bgo)     |
 | 野怪大伟丘不会梦到璃月海灯节                                 | [链接](https://www.bilibili.com/video/BV1Dz4y1m7bL/)         |                                                     | 现实还原游戏                               | [真实的璃月终于被我们还原了](https://www.bilibili.com/video/BV116421f7rM/) \| [【原神】年度最强COS短片 跨越尘世的冒险之旅](https://www.bilibili.com/video/BV1Xy4y1m7eH/) \| [【原神】真人COS短片续作 海上升明霄](https://www.bilibili.com/video/BV1gy4y1Y7zc/) |
 | 过家家游戏到此为止                                           | [链接](https://www.bilibili.com/video/BV16T421C7Ry/)         |                                                     | 真实向建模                                 | [握紧长剑之时，我代表的是枫丹的律法与规则](https://www.bilibili.com/video/BV1T7421d7Z9/) \| [予我辉光！](https://www.bilibili.com/video/BV17Z421K7Rf/) \| [三眼五显仙人，魈，听召而来](https://www.bilibili.com/video/BV1Qj421S7oA/) |
+| 【原神HoYoFair】时代… 变了？                                 | [链接](https://www.bilibili.com/video/BV1Uh4y1A7Um/)         | [链接](https://www.youtube.com/watch?v=LhJ6PR7d3bM) | 或许是首个比较出圈的FPS枪战风格原神二创，拥有“极致的流畅跟建模，极致的剧情，在原神二创里也算极高水平的那一档！”。 | [【原神HoYoFair】等级不是问题](https://www.bilibili.com/video/BV19x4y1a7PB/) \| [【原宇宙放映节】博物馆遭遇战 \| 原神：元素战争](https://www.bilibili.com/video/BV1d5tkerE5D/)（衍生作品，非原作者主导） |
+| 区区致命伤而已【原神】                                       | [链接](https://www.bilibili.com/video/BV1d24y1Q7U7/)         |                                                     | 作者“卢诺米阿玛斯宾”（粉丝常代称其为“羊驼”）创作了很多原神整活视频，发掘角色和游戏大世界的各种机制，结合恰到好处的音乐，营造出戏剧性和精彩的节目效果，被粉丝称为“角色推销员”。 | [合集·日常番](https://space.bilibili.com/512839/channel/collectiondetail?sid=862142) \| [耗时一整年，一次看个够【原神】枫丹整活合集，上](https://www.bilibili.com/video/BV1SE4m1R7fH/) |
 
 ## 百科 Wiki
 
