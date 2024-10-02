@@ -20,21 +20,22 @@
 
 ## 同人歌曲
 
-| 名称                       | bilibili                                             | YouTube                                             |
-| :------------------------- | :--------------------------------------------------- | :-------------------------------------------------- |
-| 致：黯淡星                 | [链接](https://www.bilibili.com/video/BV1wT411t7HA/) | [链接](https://www.youtube.com/watch?v=97O6aeQkJvs) |
-| 流萤原创同人曲《飞萤燃夜》 | [链接](https://www.bilibili.com/video/BV1UJ4m1u7gD/) | [链接](https://www.youtube.com/watch?v=wX0iN0lb5Gg) |
+| 名称                       | bilibili                                             | YouTube                                                 |
+| :------------------------- | :--------------------------------------------------- | :------------------------------------------------------ |
+| 致：黯淡星                 | [链接](https://www.bilibili.com/video/BV1wT411t7HA/) | [链接](https://www.youtube.com/watch?v=97O6aeQkJvs)     |
+| 流萤原创同人曲《飞萤燃夜》 | [链接](https://www.bilibili.com/video/BV1UJ4m1u7gD/) | [链接](https://youtu.be/828QkdErJ0Q?list=RD828QkdErJ0Q) |
 
 ## 大型同人节目视频
 
 ### 中文社区
 
-| 名称                     | 日期       | bilibili                                                     | YouTube                                             |
-| ------------------------ | ---------- | ------------------------------------------------------------ | --------------------------------------------------- |
+| 名称                     | 日期       | bilibili                                                   | YouTube                                             |
+| ------------------------ | ---------- | ---------------------------------------------------------- | --------------------------------------------------- |
 | 2023星穹夏日联欢盛典     | 2023-08-05 | [链接](https://www.bilibili.com/video/BV1s44y1w7Ad)          |                                                     |
-| 2024崩坏：星穹铁道新春会 | 2024-02-04 | [链接](https://www.bilibili.com/video/BV1a7421K7ex)          | [链接](https://www.youtube.com/watch?v=KPd8iVjBlIQ) |
+| 2024崩坏：星穹铁道新春会 | 2024-02-04 | [链接](https://www.bilibili.com/video/BV1a7421K7ex)          | [链接](https://www.youtube.com/watch?v=ii9EU0UbIkQ) |
 | 2024星穹铁道生日会       | 2024-04-27 | [链接](https://www.bilibili.com/video/BV19D421J7dW)          |                                                     |
 | 2024星穹夏日联欢盛典     | 2024-08-24 | [链接](https://www.bilibili.com/festival/xqtd2?bvid=BV1Xz421e7m6) |                                                     |
+| 2024星穹铁道造物大赛     | 2024-10-01 | [链接](https://www.bilibili.com/video/BV1ssxgeZEHK)          |                                                     |
 
 ### 国际社区
 

@@ -20,21 +20,22 @@
 
 ## Fan-made Musics
 
-| Name                                  | bilibili                                             | YouTube                                                      |
-| :------------------------------------ | :--------------------------------------------------- | :----------------------------------------------------------- |
-| [Little Edge & Vaniah] To: Bleak Star | [Link](https://www.bilibili.com/video/BV1wT411t7HA/) | [Link](https://www.YouTube.com/watch?v=97O6aeQkJvs)          |
-| 流萤原创同人曲《飞萤燃夜》            | [Link](https://www.bilibili.com/video/BV1UJ4m1u7gD/) | [Link](https://www.YouTube.com/watch?v=wX0iN0lb5Gg) (Video unavailable) |
+| Name                                         | bilibili                                             | YouTube                                                 |
+| :------------------------------------------- | :--------------------------------------------------- | :------------------------------------------------------ |
+| [Little Edge & Vaniah] To: Bleak Star        | [Link](https://www.bilibili.com/video/BV1wT411t7HA/) | [Link](https://www.YouTube.com/watch?v=97O6aeQkJvs)     |
+| 流萤原创同人曲《飞萤燃夜》\| Fēi Yíng Rán Yè | [Link](https://www.bilibili.com/video/BV1UJ4m1u7gD/) | [Link](https://youtu.be/828QkdErJ0Q?list=RD828QkdErJ0Q) |
 
 ## Fan-made Concerts
 
 ### CN Community
 
-| Name                     | Date       | bilibili                                                     | YouTube                                                      |
-| ------------------------ | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2023星穹夏日联欢盛典     | 2023-08-05 | [Link](https://www.bilibili.com/video/BV1s44y1w7Ad)          |                                                              |
-| 2024崩坏：星穹铁道新春会 | 2024-02-04 | [Link](https://www.bilibili.com/video/BV1a7421K7ex)          | [Link](https://www.YouTube.com/watch?v=KPd8iVjBlIQ) (Video unavailable) |
-| 2024星穹铁道生日会       | 2024-04-27 | [Link](https://www.bilibili.com/video/BV19D421J7dW)          |                                                              |
-| 2024星穹夏日联欢盛典     | 2024-08-24 | [Link](https://www.bilibili.com/festival/xqtd2?bvid=BV1Xz421e7m6) |                                                              |
+| Name                     | Date       | bilibili                                                     | YouTube                                             |
+| ------------------------ | ---------- | ------------------------------------------------------------ | --------------------------------------------------- |
+| 2023星穹夏日联欢盛典     | 2023-08-05 | [Link](https://www.bilibili.com/video/BV1s44y1w7Ad)          |                                                     |
+| 2024崩坏：星穹铁道新春会 | 2024-02-04 | [Link](https://www.bilibili.com/video/BV1a7421K7ex)          | [Link](https://www.youtube.com/watch?v=ii9EU0UbIkQ) |
+| 2024星穹铁道生日会       | 2024-04-27 | [Link](https://www.bilibili.com/video/BV19D421J7dW)          |                                                     |
+| 2024星穹夏日联欢盛典     | 2024-08-24 | [Link](https://www.bilibili.com/festival/xqtd2?bvid=BV1Xz421e7m6) |                                                     |
+| 2024星穹铁道造物大赛     | 2024-10-01 | [Link](https://www.bilibili.com/video/BV1ssxgeZEHK)          |                                                     |
 
 ### EN Community
 
